@@ -3,4 +3,4 @@ Disallow: /css/
 Disallow: /js/
 Disallow: /works/
 
-Sitemap: http://pizn.github.io/sitemap.xml
+Sitemap: http://boge0920.github.io/sitemap.xml

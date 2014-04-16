@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-   <title>baby</title>
-   <link href="http://pizn.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-   <link href="http://pizn.github.io" rel="alternate" type="text/html" />
-   <updated>2014-04-16T17:22:08+08:00</updated>
-   <id>http://pizn.github.io</id>
+   <title>boge junior</title>
+   <link href="http://boge0920.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://boge0920.github.io" rel="alternate" type="text/html" />
+   <updated>2014-04-16T17:25:56+08:00</updated>
+   <id>http://boge0920.github.io</id>
    <author>
      <name></name>
      <email></email>
@@ -14,18 +14,18 @@
    
    <entry>
      <title>19w+0d</title>
-     <link href="http://pizn.github.io/2014/04/16/back-home.html"/>
+     <link href="http://boge0920.github.io/2014/04/16/back-home.html"/>
      <updated>2014-04-16T00:00:00+08:00</updated>
-     <id>http://pizn.github.io/2014/04/16/back-home</id>
+     <id>http://boge0920.github.io/2014/04/16/back-home</id>
      <content type="html">&lt;p&gt;赛程终于过半了，但还是不晓得怎么称呼你好~~&lt;/p&gt;
 </content>
    </entry>
    
    <entry>
      <title>14w+5d:周一</title>
-     <link href="http://pizn.github.io/baby/2014/03/17/morning.html"/>
+     <link href="http://boge0920.github.io/baby/2014/03/17/morning.html"/>
      <updated>2014-03-17T18:43:20+08:00</updated>
-     <id>http://pizn.github.io/baby/2014/03/17/morning</id>
+     <id>http://boge0920.github.io/baby/2014/03/17/morning</id>
      <content type="html">&lt;p&gt;周一总是那么不情愿的。
 刚收到你发来的短信‘起床了’。
 还是好晚的感觉。明天早起一点点。O(∩_∩)O~&lt;/p&gt;
@@ -34,9 +34,9 @@
    
    <entry>
      <title>第40天</title>
-     <link href="http://pizn.github.io/baby/2014/01/14/night.html"/>
+     <link href="http://boge0920.github.io/baby/2014/01/14/night.html"/>
      <updated>2014-01-14T06:02:24+08:00</updated>
-     <id>http://pizn.github.io/baby/2014/01/14/night</id>
+     <id>http://boge0920.github.io/baby/2014/01/14/night</id>
      <content type="html">&lt;p&gt;一天了，今天比较忙碌。
 早上去上班了，赶着吃午饭回了家，妈妈已经在&lt;code&gt;老爹&lt;/code&gt;吃下了满满一碗面，除了肉。
 然后，换床垫、整理，之后去了&lt;a href=&quot;http://www3.ha.org.hk/pwh/index.asp&quot;&gt;威尔斯亲王医院&lt;/a&gt;，
@@ -66,9 +66,9 @@
    
    <entry>
      <title>第39天</title>
-     <link href="http://pizn.github.io/baby/2014/01/12/boge.html"/>
+     <link href="http://boge0920.github.io/baby/2014/01/12/boge.html"/>
      <updated>2014-01-12T18:02:24+08:00</updated>
-     <id>http://pizn.github.io/baby/2014/01/12/boge</id>
+     <id>http://boge0920.github.io/baby/2014/01/12/boge</id>
      <content type="html">&lt;p&gt;小鹁鸽,hoho,今天是第39天了。妈妈今天早上有快要吐了。
 你要好好的哦。&lt;/p&gt;
 </content>
@@ -76,9 +76,9 @@
    
    <entry>
      <title>第39天-妈妈要洗头</title>
-     <link href="http://pizn.github.io/baby/2014/01/12/afternoon.html"/>
+     <link href="http://boge0920.github.io/baby/2014/01/12/afternoon.html"/>
      <updated>2014-01-12T18:02:24+08:00</updated>
-     <id>http://pizn.github.io/baby/2014/01/12/afternoon</id>
+     <id>http://boge0920.github.io/baby/2014/01/12/afternoon</id>
      <content type="html">&lt;p&gt;小鹁鸽,妈妈要弯腰洗头,我得阻止下O(∩_∩)O~！！&lt;/p&gt;
 </content>
    </entry>
