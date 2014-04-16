@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://pizn.github.io/</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://pizn.github.io/archives.html</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://pizn.github.io/plugins.html</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://pizn.github.io/works.html</loc>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>http://pizn.github.io/contact.html</loc>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://pizn.github.io/2014/04/16/back-home.html</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://pizn.github.io/baby/2014/03/17/morning.html</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://pizn.github.io/baby/2014/01/14/night.html</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://pizn.github.io/baby/2014/01/12/boge.html</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://pizn.github.io/baby/2014/01/12/afternoon.html</loc>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
