@@ -1,0 +1,67 @@
+hr {
+	margin-left: 0em;
+	margin-right: 0em;
+}
+border-top: 1px dashed #000;
+
+p {
+	margin-left: 0em;
+	margin-right: 0em;
+	align:justify;
+}
+
+h3 {
+	font-size: 16pt;
+	font-weight: bold;
+}
+h4 {
+	font-size: 13pt;
+	font-weight: bold;
+}
+body {
+	margin: 25px auto; 
+	width:900px;
+	align:center; 
+	font-family: Arial,sans-serif; 
+	font-size:14px;
+	text-align:adjusty;
+}
+
+
+#photo{float:left; width:240px; text-align:center;}
+
+#basicinfo{float:left; width:620px; padding-left: 40px}
+
+.clear {
+  clear: both;
+  }
+  
+.memu{
+	align:center; 
+	text-align:center;
+}
+
+
+/*
+.STYLE3 {
+	font-size: 16px;
+	font-family: "Times New Roman", Georgia, Arial, Helvetica, sans-serif;
+}
+.STYLE10 {
+	font-size: 27px;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia, Arial, Helvetica, sans-serif;
+}
+.STYLE11 {
+		font-family: "Times New Roman",  Georgia, Arial, Helvetica, sans-serif;	
+}
+.STYLE12 {font-family: Cambria, Georgia, "Times New Roman", Arial, Helvetica, sans-serif; font-size: 52px;}
+.voiddiv {clear:both; margin:auto !important; width: 1010px; background-color:#fff; text-align:center; border-left:1px solid #ccc; border-right:1px solid #ccc; overflow:hidden;}
+
+.ah3{ font-family: Georgia, "Times New Roman", Arial, Helvetica, sans-serif;}
+.hrc {width: 1010px; text-align:center;
+font-family: Georgia, "Times New Roman", Arial, Helvetica, sans-serif;
+font-size:18px;}
+.indextext{font-size:17px;line-height:16px; font-family: "Times New Roman", Georgia, Arial, Helvetica, sans-serif;}
+ul{list-style:none;}
+*/
