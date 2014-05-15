@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Junbo Zhang's Home Page</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+.STYLE3 {
+	color: #6cac3c;
+	font-size: 15px;
+	font-style: italic;
+	font-family: "宋体";
+}
+.STYLE10 {
+	font-size: 27px;
+	font-style: italic;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+}
+.STYLE11 {color: #666666}
+.STYLE12 {font-family:  Georgia, Arial, Helvetica, sans-serif; font-size: 52px;}
+.voiddiv {clear:both; margin:auto !important; width: 1010px; background-color:#fff; text-align:center; border-left:1px solid #ccc; border-right:1px solid #ccc; overflow:hidden;}
+
+.ah3{ color:#6cac3c;}
+.hrc {width: 1010px; text-align:center;}
+.indextext{font-size:14px;line-height:13px; font-family:宋体;}
+ul{list-style:none;}
+-->
+</style>
+</head>
+<body  style="text-align:center; margin-top:0px;">
+<CENTER><div  style="width:1010px; text-align:left;"><A name=top>Welcome to Junbo Zhang's Homepage</A></div>
+<TABLE cellPadding=0 width=1010px >
+    <TD width="161" rowspan="2" align=left valign="bottom"><img src="../zjb.jpg" width="143" height="165" style=" border-color:#6cac3c; padding:2px;" border="1" /></TD>
+    <TD align=left valign="bottom"><span class="STYLE10">Junbo Zhang 张钧波，Ph.D. candidate</span></TD>
+    </TR>
+  <TR>
+  <TD width="841" align=left valign="bottom"><span class="STYLE3">(1) Key Lab of Cloud Computing & Intelligent Technology, Sichuan Province <br /> 
+School of Information Science and Technology<br />
+Southwest Jiaotong University, Chengdu 610031, P.R.China<br />
+      <a href="mailto:JunboZhang86@163.com"><img src="../email.jpg" border="0" />JunboZhang86@163.com</a><br />
+	  (2) Department of Computer Science <br />
+Georgia State University, Atlanta, GA 30303, USA <br />
+ <a href="mailto:jbzhang@cs.gsu.edu"><img src="../email.jpg" border="0" />jbzhang@cs.gsu.edu</a> <br/>CV: <a href="cv_zhang.pdf">PDF</a>	  
+	  </span></TD>    
+    <BR>
+  </TR></TABLE>
+</CENTER>
+<CENTER>
+<TABLE cellPadding=0 width=1010px >
+  <TBODY>
+  <TR>
+    <TD width="1010px" align=left >
+	<HR class="hrc">
+&nbsp;&nbsp;&nbsp;&nbsp;Junbo Zhang received his B.Eng. degree from the Southwest Jiaotong University, China in 2009. He is currently a Ph.D. candidate at the School of Information Science and Technology, Southwest Jiaotong University, China, supervised by <a href="http://userweb.swjtu.edu.cn/Userweb/trli30/index.htm" target="_blank">Prof. Tianrui Li</a>. Now, he is also a visiting Ph.D. student at the Department of Computer Science, Georgia State University, USA, under advisor <a href="http://www.cs.gsu.edu/pan/" target="_blank">Prof. Yi Pan</a>. He is now a student member of both ACM and China Computer Federation. 
+	<HR class="hrc">
+	<!-- TemplateBeginEditable name="EditRegion1" -->
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
+	</TD>
+  </TR></TBODY></TABLE>
+
+
+</body>
+</html>
