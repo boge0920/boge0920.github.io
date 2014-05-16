@@ -4,9 +4,9 @@
 #redcarpet:
 #    extensions: ["fenced_code_blocks", "tables", "highlight", "with_toc_data", "strikethrough", "underline"]
 markdown: rdiscount
-pandoc:
-  format: html5
-  extensions: [smart, mathjax]
+pandoc: true
+  #format: html5
+  #extensions: [smart, mathjax]
 
 title:            Deep Learning - beta version
 #lucktroy
