@@ -3,8 +3,12 @@ layout: index
 title: Publications
 ---
 
-### Selected Publications ([Full Publications](/fullpublications)|| [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zhang:Junbo.html) || [Google
-Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) || [AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html))
+### Selected Publications 
+
+[[Full Publications](/fullpublications)]
+[[DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zhang:Junbo.html)]
+[[Google Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) ]
+[[AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html)]
 
 * * *
 -	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
@@ -13,7 +17,7 @@ Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) || [AMiner
 
 -	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
 	*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.* \ 
-	Accepted for publication in the [**IEEE Transactions on Knowledge and Data Engineering**](http://www.computer.org/portal/web/tkde).
+	Accepted for publication in the IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
 -   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan,\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using

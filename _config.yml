@@ -8,7 +8,7 @@ pandoc:
   format: html5
   extensions: [smart, mathjax]
 
-title:            Welcome
+title:            Junbo Zhang | SWJTU & CUHK
 #lucktroy
 subTitle:         Simple, Easy, Fast
 plugins:          ./_plugins
