@@ -31,14 +31,16 @@ links:
     url:          /research
   - name:         PUBLICATIONS
     url:          /publications
-  - name:         RESUME
-    url:          /junbo-resume.pdf
   - name:         AWARDS
     url:          /awards
   - name:         ACTIVITIES
     url:          /activities
   - name:         LINKS
     url:          /links
+  #- name:         CV
+  #  url:          /zhang-cv.pdf
+  #- name:         RESUME
+  #  url:          /junbo-resume.pdf
 pygments:         true
 permalink:        pretty
 
