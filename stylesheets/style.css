@@ -9,7 +9,8 @@ body {
   color: #303030;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 15px;
+  font-weight: normal;
   line-height: 19px;
   padding: 0;
   margin: 25px auto;
@@ -23,10 +24,12 @@ p {
   margin-right: 0em;
   align:justify;
   font-size: 14px;
+  font-weight: normal;
 }
 
 li {
   font-size: 14px;
+  font-weight: normal;
 }
 
 img {
