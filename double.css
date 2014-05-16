@@ -15,16 +15,8 @@ h3 {
 	font-weight: bold;
 }
 h4 {
-	font-size: 13pt;
+	font-size: 11pt;
 	font-weight: bold;
-}
-body {
-	margin: 25px auto;
-	width:900px;
-	align:center;
-	font-family: Arial,sans-serif;
-	font-size:14px;
-	text-align:adjusty;
 }
 
 .textbottom {vertical-align:text-bottom;}
@@ -33,9 +25,9 @@ body {
 
 #basicinfo{float:left; width:380px; padding-left: 40px}
 
-
 #shortbio{text-align:justify;
-          text-justify:inter-ideograph;}
+          text-justify:inter-ideograph;
+      	font-size: 14px;}
 
 .clear {
   clear: both;
