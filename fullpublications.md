@@ -94,17 +94,16 @@ title: Publications
 -   **Junbo Zhang**, Tianrui Li, Yi Pan.\
      [*PLAR: Parallel Large-scale Attribute Reduction on Cloud
     Systems.*]()\
-     [The 14th International Conference on Parallel and Distributed
+     The 14th International Conference on Parallel and Distributed
     Computing, Applications and Technologies
-    (PDCAT)](http://pdcat13.csie.ntust.edu.tw/), Taipei, 2013, to
-    appear.
+   ([PDCAT](http://pdcat13.csie.ntust.edu.tw/)), Taipei, 2013.
 
 -   **Junbo Zhang**, Chizheng Wang, Yi Pan, Tianrui Li.\
      [*Parallel Approaches to Neighborhood Rough Sets: Classification
     and Feature Selection.*]()\
      [The 8th International Conference on Intelligent Systems and
     Knowledge Engineering (ISKE)](http://kjb.szu.edu.cn/iske/),
-    Shenzhen, China, 2013, to appear.
+    Shenzhen, China, 2013.
 
 -   **Junbo Zhang**, Yun Zhu, Yi Pan, Tianrui Li.\
      [*A Parallel Implementation of Computing Composite Rough Set
@@ -137,23 +136,22 @@ title: Publications
      [ACM SIGKDD 2012 Workshop on Big Data Mining
     (BigMine)](http://kdd2012.sigkdd.org/workshops.shtml), Beijing,
     China, pp. 20-27,2012.
-    [[Project](http://cs.gsu.edu/~jbzhang/project/rshadoop.html)]
 
 -   Anping Zeng, Tianrui Li, **Junbo Zhang**, Dun Liu.\
      [*An Incremental Approach for Updating Approximations of Rough
     Fuzzy Sets under the Variation of the Object
     Sets.*](http://dx.doi.org/10.1007/978-3-642-32115-3_4)\
-     [Proceedings of the 8th International Conference on Rough Sets and
+     Proceedings of the 8th International Conference on Rough Sets and
     Current Trends in Computing
-    (RSCTC)](http://www.informatik.uni-trier.de/~ley/db/conf/rsctc/index.html),
+    ([RSCTC](http://www.informatik.uni-trier.de/~ley/db/conf/rsctc/index.html)),
     Chengdu, China, pp. 36-45 2012.
 
 -   **Junbo Zhang**, Tianrui Li, Yan Yang, Wei Wang.\
      [*Neighborhood Rough Sets Based Matrix Approach for Calculation of
     the
     Approximations.*](http://dx.doi.org/10.1007/978-3-642-24425-4_23)\
-     [Proceedings of the 6th International Conference on Rough Sets and
-    Knowledge Technology (RSKT)](http://rskt.cs.uregina.ca), Banff,
+     Proceedings of the 6th International Conference on Rough Sets and
+    Knowledge Technology ([RSKT](http://rskt.cs.uregina.ca)), Banff,
     Canada, pp. 166-171, 2011.
 
 -   **Junbo Zhang**, Tianrui Li, Da Ruan.\
@@ -177,67 +175,65 @@ title: Publications
      [*A New Method for Calculation of the Approximations Under the
     Probabilistic Rough
     Sets.*](http://dx.doi.org/10.1109/ISKE.2010.5680797)\
-     [Proceedings of 2010 IEEE International Conference on Intelligent
+     Proceedings of 2010 IEEE International Conference on Intelligent
     Systems and Knowledge Engineering
-    (ISKE)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709),
+    ([ISKE](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709)),
     Hangzhou, China, pp. 73-76, 2010.
 
 -   **Junbo Zhang**, Tianrui Li, Dun Liu.\
      [*An Approach for Incremental Updating Approximations in Variable
     Precision Rough Sets While Attribute
     Generalized.*](http://dx.doi.org/10.1109/ISKE.2010.5680798)\
-     [*Proceedings of 2010 IEEE International Conference on Intelligent
+     Proceedings of 2010 IEEE International Conference on Intelligent
     Systems and Knowledge Engineering
-    (ISKE)*](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709),
+    ([ISKE](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709)),
     Hangzhou, China, pp. 77-81, 2010.
 
 -   **Junbo Zhang**, Tianrui Li, Muhammad Zia ur Rehman, Shaoyong Li.\
      [An Approach for Selection of the Proper Lever of Granularity in
     Granular Computing](http://dx.doi.org/10.1142/9789814324700_0116).
-    [*Proceedings of the 9th International FLINS Conference on
+     Proceedings of the 9th International FLINS Conference on
     Foundations and Applications of Computational Intelligence
-    (FLINS)*](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=7359&copyownerid=2),
+    ([FLINS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=7359&copyownerid=2)),
     Chengdu, China, pp. 764-769, 2010.
 
 -   Dun Liu, **Junbo Zhang**, Tianrui Li.\
      [*A Probabilistic Rough Set Approach for Incremental Learning
     Knowledge on the Change of
     Attributes.*](http://dx.doi.org/10.1142/9789814324700_0109)\
-     [Proceedings of the 9th International FLINS Conference on
+     Proceedings of the 9th International FLINS Conference on
     Foundations and Applications of Computational Intelligence
-    (FLINS)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=7359&copyownerid=2),
-    Chengdu, China, pp. 722-727, 2010.
+    ([FLINS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=7359&copyownerid=2)), Chengdu, China, pp. 722-727, 2010.
 
 -   Hongmei Chen, Tianrui Li, **Junbo Zhang**.\
      [*A Method for Incremental Updating Approximations when Objects and
     Attributes Vary with
     Time.*](http://dx.doi.org/10.1109/GrC.2010.116)\
-     [Proceedings of 2010 IEEE International Conference on Granular
-    Computing (GrC)](http://xanadu.cs.sjsu.edu/~grc/grc2010),
+     Proceedings of 2010 IEEE International Conference on Granular
+    Computing ([GrC](http://xanadu.cs.sjsu.edu/~grc/grc2010)),
     California, USA, pp. 90-95, 2010.
 
 -   Hongmei Chen, Tianrui Li,**Junbo Zhang**.\
      [*A Method for Incremental Updating Approximations based on
     Variable Precision Set-valued Ordered Information
     Systems.*](http://dx.doi.org/10.1109/GrC.2010.115)\
-     [Proceedings of 2010 IEEE International Conference on Granular
-    Computing (GrC)](http://xanadu.cs.sjsu.edu/~grc/grc2010),
+     Proceedings of 2010 IEEE International Conference on Granular
+    Computing ([GrC](http://xanadu.cs.sjsu.edu/~grc/grc2010)),
     California, USA, pp. 96-101, 2010.
 
 -   Shaoyong Li, Tianrui Li, **Junbo Zhang**.\
      [*Approach for Dynamically Updating Set Approximations Based Rough
     Sets While Condition Attributes Value Coarsening and
     Refining.*](http://dx.doi.org/10.1109/ISKE.2010.5680788) \
-     [Proceedings of 2010 IEEE International Conference on Intelligent
+     Proceedings of 2010 IEEE International Conference on Intelligent
     Systems and Knowledge Engineering
-    (ISKE)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709),
-    Hangzhou, China, pp. 27-32, 2010.
+    ([ISKE](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709)), Hangzhou, China, pp. 27-32, 2010.
 
 -   Shaoyong Li, Tianrui Li, **Junbo Zhang**.\
      [*Updating Approximations Dynamically in Dominance-based Rough
     Sets.*](http://www.atlantis-press.com/php/paper-details.php?id=2011)\
-     [Proceedings of the International Conference on E-Business
-    Intelligence (ICEBI)](http://cnais.sem.tsinghua.edu.cn/icebi2010),
+     Proceedings of the International Conference on E-Business
+    Intelligence ([ICEBI](http://cnais.sem.tsinghua.edu.cn/icebi2010)),
     Kunming, China, pp. 534-540, 2010.
 
 -   Dun Liu, Tianrui Li, **Junbo Zhang**.\
@@ -245,8 +241,8 @@ title: Publications
     Refining of Attribute Values in E-Business
     Systems.*](http://www.atlantis-press.com/php/paper-details.php?id=2070)
     \
-     [Proceedings of the International Conference on E-Business
-    Intelligence (ICEBI)](http://cnais.sem.tsinghua.edu.cn/icebi2010),
+     Proceedings of the International Conference on E-Business
+    Intelligence ([ICEBI](http://cnais.sem.tsinghua.edu.cn/icebi2010)),
     Kunming, China, pp. 541-547, 2010.
 
 [Home](/)
