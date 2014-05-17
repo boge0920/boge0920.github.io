@@ -15,8 +15,7 @@ computing](http://en.wikipedia.org/wiki/Granular_computing), [rough
 set](http://en.wikipedia.org/wiki/Rough_set).
 -->
 
-- Deep Learning
-- Representation Learning
-- Feature Selection
+- Deep Learning, Representation Learning, Feature Selection
+- Cloud Computing, Distributed Computing, High Performance Computing
 - Big Data Mining
-- Cloud Computing
+- Rough Sets/Fuzzy Sets
