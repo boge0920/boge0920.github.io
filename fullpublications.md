@@ -13,6 +13,10 @@ title: Publications
 	*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.* \ 
 	Accepted for publication in the IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
+-  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
+   *A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform*.\
+    Accepted for publication in [Journal of Software](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
+
 -   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan.\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using
     Rough Set Theory on Different MapReduce Runtime
