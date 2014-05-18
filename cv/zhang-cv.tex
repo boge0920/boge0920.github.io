@@ -1,0 +1,209 @@
+\documentclass[]{article}
+
+%% Added By Lucktroy
+\usepackage{mdwlist}
+\renewenvironment{description}{
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{10em}}
+}{
+  \end{basedescript}
+}
+%%
+
+\usepackage{geometry} 		% 設定邊界
+\geometry{
+  top=1in,
+  inner=1in,
+  outer=1in,
+  bottom=1in,
+  headheight=3ex,
+  headsep=2ex
+}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec} 	% 允許設定字體
+  \usepackage{xeCJK} 		% 分開設置中英文字型
+  \setCJKmainfont{LiHei Pro} 	% 設定中文字型
+  \setmainfont{Georgia} 	% 設定英文字型
+  \setromanfont{Georgia} 	% 字型
+  \setmonofont{Courier New}
+  \linespread{1.2}\selectfont 	% 行距
+  \XeTeXlinebreaklocale "zh" 	% 針對中文自動換行
+  \XeTeXlinebreakskip = 0pt plus 1pt % 字與字之間加入0pt至1pt的間距，確保左右對整齊
+  \parindent 0em 		% 段落縮進
+  \setlength{\parskip}{20pt} 	% 段落之間的距離
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+%\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\title{\huge 在OSX平台上的XeLaTeX中文測試} % 設置標題，使用巨大字體
+\author{FoolEgg.com} 		% 設置作者
+\date{February 2013} 		% 設置日期
+\usepackage{titling}
+\setlength{\droptitle}{-8em} 	% 將標題移動至頁面的上面
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancyplain}
+
+\setcounter{secnumdepth}{0}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{Junbo Zhang}\label{junbo-zhang}
+
+School of Information Science and Technology Southwest Jiaotong
+University Chengdu, China
+
+\begin{center}\rule{3in}{0.4pt}\end{center}
+
+\begin{quote}
+Science isn't about WHY. It's about WHY NOT!
+\end{quote}
+
+\begin{center}\rule{3in}{0.4pt}\end{center}
+
+\subsection{Education}\label{education}
+
+\begin{center}\rule{3in}{0.4pt}\end{center}
+
+\begin{description}
+\item[9/2009 - present]
+PhD Candidate in School of Information Science and Technology, Southwest
+Jiaotong University
+\item[9/2005 - 7/2009]
+BEng in Telecommunication Engineering from Southwest Jiaotong University
+\end{description}
+
+\subsection{Experience}\label{experience}
+
+\begin{description}
+\item[5/2013 - present]
+Research Intern at \href{http://www.noahlab.com.hk/}{Huawei Noah's Ark
+Lab (Hong Kong)}
+\item[5/2013 - present]
+Research Assistant at The Chinese University of Hong Kong
+\item[2/2012 - 2/2013]
+Visiting PhD Student in Georgia State University
+\end{description}
+
+\subsection{Publications}\label{publications}
+
+\begin{itemize}
+\item
+  \textbf{Junbo Zhang}, Guangjian Tian, Yadong Mu, Wei Fan.\\
+  \emph{Supervised Deep Learning with Auxiliary Networks.}\\ The 20th
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  (\href{http://www.kdd.org/kdd2014/}{\textbf{KDD 2014}}).
+\item
+  \textbf{Junbo Zhang}, Jian-Syuan Wong, Yi Pan, Tianrui Li.\\ \emph{A
+  Parallel Matrix-based Method for Computing Approximations in
+  Incomplete Information Systems.}\\ Accepted for publication in the
+  IEEE Transactions on Knowledge and Data Engineering
+  (\href{http://www.computer.org/portal/web/tkde}{\textbf{TKDE}}).
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\\
+  \emph{A Parallel and Incremental Algorithm for Updating Knowledge
+  Based on Rough Sets in Cloud Computing Platform}.\\ Accepted for
+  publication in \href{http://www.jos.org.cn/ch/index.aspx}{Journal of
+  Software}. (in Chinese)
+\item
+  \textbf{Junbo Zhang}, Jian-Syuan Wong, Tianrui Li, Yi Pan,\\
+  \href{http://dx.doi.org/10.1016/j.ijar.2013.08.003}{\emph{A Comparison
+  of Parallel Large-scale Knowledge Acquisition Using Rough Set Theory
+  on Different MapReduce Runtime Systems.}}\\
+  \href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{\textbf{International
+  Journal of Approximate Reasoning}}, vol.~55, no. 3, pp.~896-907, 2014.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Hongmei Chen,\\
+  \href{http://dx.doi.org/10.1016/j.ins.2013.08.016}{\emph{Composite
+  Rough Sets for Dynamic Data Mining.}}\\
+  \href{http://www.journals.elsevier.com/information-sciences}{\textbf{Information
+  Sciences}}, vol.~257, pp.~81-100, 2014.
+\item
+  \textbf{Junbo Zhang}, Dong Xiang, Tianrui Li, Yi Pan,\\
+  \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6449402\&contentType=Journals+\%26+Magazines\&queryText\%3DM2M\%3A+A+simple+Matlab-to-MapReduce+translator+for+Cloud+Computing}{\emph{M2M:
+  A Simple Matlab-to-MapReduce Translator for Cloud Computing.}}\\
+  \href{http://qhxb.lib.tsinghua.edu.cn/english/}{\textbf{Tsinghua
+  Science and Technology}}, vol 18, no. 1, pp.~1-9, 2013.
+\item
+  Yi Pan, \textbf{Junbo Zhang},\\
+  \href{http://www.ftrai.org/xe/index.php?mid=joc_published\&category=37964\&search_keyword=section\&search_target=title\&document_srl=38459}{\emph{Parallel
+  Programming on Cloud Computing Platforms: Challenges and
+  Solutions.}}\\ \href{http://www.ftrai.org/joc/}{\textbf{KITCS/FTRA
+  Journal of Convergence}}, vol.~3, no. 4, pp.~23-28,2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Zizhe Gao, Chengbing
+  Zhao,\\ \href{http://dx.doi.org/10.1016/j.ins.2011.12.036}{\emph{A
+  Parallel Method for Computing Rough Set Approximations.}}\\
+  \href{http://www.journals.elsevier.com/information-sciences}{\textbf{Information
+  Sciences}}, vol.~194, pp.~209-223, 2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Dun Liu,\\
+  \href{http://dx.doi.org/10.1016/j.ijar.2012.01.001}{\emph{Rough Sets
+  Based Matrix Approaches with Dynamic Attribute Variation in Set-valued
+  Information Systems.}}\\
+  \href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{\textbf{International
+  Journal of Approximate Reasoning}}, vol.~53, no. 4, pp.~620-635, 2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Dun Liu,\\
+  \href{http://dx.doi.org/10.1002/int.21523}{\emph{Neighborhood Rough
+  Sets for Dynamic Data Mining.}}\\
+  \href{http://onlinelibrary.wiley.com/journal/10.1002/{[}ISSN{]}1098-111X}{\textbf{International
+  Journal of Intelligent Systems}}, vol.~27, no. 4, pp.~317-342, 2012.
+\end{itemize}
+
+\subsection{Corporate Experience}\label{corporate-experience}
+
+\begin{description}
+\item[1940-1980]
+\emph{CEO of Aperture Science} (Upper Michigan, USA).
+
+Supervised the development of various gels, and of a Portable Quantum
+Tunneling Device.
+\end{description}
+
+\subsection{Hobbies}\label{hobbies}
+
+\begin{description}
+\itemsep1pt\parskip0pt\parsep0pt
+\item[Interests]
+Refining moon rocks
+\end{description}
+
+\end{document}
+
