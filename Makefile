@@ -2,6 +2,7 @@ deploy:
 	git checkout working
 	git add -A
 	git commit -m "deploy blog"
+	git push origin working
 	rm -rf /tmp/_site
 	cp -r _site/ /tmp/
 	git checkout master
