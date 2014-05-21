@@ -3,17 +3,19 @@ layout: index
 title: Publications
 ---
 
-### Selected Publications
-
-<!--[[Full Publications](/fullpublications)]-->
-[[DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zhang:Junbo.html)]
-[[Google Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) ]
-[[AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html)]
+### Selected Publications 
+[[DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zhang:Junbo.html)] [[Google Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) ] [[AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html)]
+<!--[[Full Publications](/fullpublications)]--> 
 
 * * *
+
+<!--#### Conference Papers-->
+
 -	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
 	*Supervised Deep Learning with Auxiliary Networks.*\
 	The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)).
+
+<!--#### Journals-->
 
 -	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
 	*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.* \
@@ -43,11 +45,13 @@ title: Publications
     Technology**](http://qhxb.lib.tsinghua.edu.cn/english/), vol 18, no.
     1, pp. 1-9, 2013.
 
+<!--
 -   Yi Pan, **Junbo Zhang**,\
      [*Parallel Programming on Cloud Computing Platforms: Challenges and
     Solutions.*](http://www.ftrai.org/xe/index.php?mid=joc_published&category=37964&search_keyword=section&search_target=title&document_srl=38459)\
      [**KITCS/FTRA Journal of Convergence**](http://www.ftrai.org/joc/),
     vol. 3, no. 4, pp. 23-28,2012.
+-->
 
 -   **Junbo Zhang**, Tianrui Li, Da Ruan, Zizhe Gao, Chengbing Zhao,\
      [*A Parallel Method for Computing Rough Set
