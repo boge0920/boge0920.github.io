@@ -15,6 +15,12 @@ title: Publications
 	*Supervised Deep Learning with Auxiliary Networks.*\
 	The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)).
 
+<!--
+-   Chuan Luo, Tianrui Li, Hongmei Chen, **Junbo Zhang**. \
+    *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
+    In: Proceedings of the Joint Conference of 13th China Conference on Rough Sets and Soft Computing, 7th China Conference on Web Intelligence, 7th China Conference on Granular Computing (**CRSSC-CWI-CGrC 2013**), Zhangzhou, China, 2013. (in Chinese) (**Outstanding Student Paper Award**)
+-->
+
 <!--#### Journals-->
 
 -	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
