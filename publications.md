@@ -3,9 +3,9 @@ layout: index
 title: Publications
 ---
 
-### Selected Publications 
+### Selected Publications
 [[DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/z/Zhang:Junbo.html)] [[Google Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) ] [[AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html)]
-<!--[[Full Publications](/fullpublications)]--> 
+<!--[[Full Publications](/fullpublications)]-->
 
 * * *
 
@@ -24,6 +24,10 @@ title: Publications
 -  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
    *A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform*.\
     Accepted for publication in [Journal of Software](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
+
+-  Anping Zeng, Tianrui Li, **Junbo Zhang**, Hongmei Chen. \
+    *Incremental Maintenance of Rough Fuzzy Set Approximations under the Variation of Object Set*.\
+    Accepted for publication in [Fundamenta Informaticae](http://www.iospress.nl/journal/fundamenta-informaticae).
 
 -   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan,\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using
