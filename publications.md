@@ -29,11 +29,11 @@ title: Publications
 
 -  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
    *A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform*.\
-    Accepted for publication in [Journal of Software](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
+    Accepted for publication in [**Journal of Software**](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
 
 -  Anping Zeng, Tianrui Li, **Junbo Zhang**, Hongmei Chen. \
     *Incremental Maintenance of Rough Fuzzy Set Approximations under the Variation of Object Set*.\
-    Accepted for publication in [Fundamenta Informaticae](http://www.iospress.nl/journal/fundamenta-informaticae).
+    Accepted for publication in [**Fundamenta Informaticae**](http://www.iospress.nl/journal/fundamenta-informaticae).
 
 -   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan,\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using
