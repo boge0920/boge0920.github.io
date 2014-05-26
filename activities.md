@@ -11,7 +11,7 @@ title: Activities
 -   [ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
 -   [IEEE Transactions on Computers
     (TOC)](http://www.computer.org/portal/web/tc)
--   [IEEE/ACM Transactions on Computational Biology and Bioinformatics](http://www.computer.org/portal/web/tcbb)
+-   [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](http://www.computer.org/portal/web/tcbb)
 -   [IEEE Transactions on NanoBioscience](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7728)
 -   [World Wide Web Journal
     (WWWJ)](http://www.editorialmanager.com/wwwj/)
