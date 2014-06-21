@@ -14,7 +14,7 @@ title: Publications
 -	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
 	*Supervised Deep Learning with Auxiliary Networks.*\
 	The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)).
-
+<!--http://dx.doi.org/10.1145/2623330.2623618-->
 <!--
 -   Chuan Luo, Tianrui Li, Hongmei Chen, **Junbo Zhang**. \
     *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
@@ -24,7 +24,7 @@ title: Publications
 <!--#### Journals-->
 
 -	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
-	*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.* \
+	[*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
 	Accepted for publication in the IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
 -  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
