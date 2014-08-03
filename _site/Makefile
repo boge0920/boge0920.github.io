@@ -1,4 +1,5 @@
 deploy:
+	jeklly build
 	git checkout working
 	git add -A
 	git commit -m "deploy blog"

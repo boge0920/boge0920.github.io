@@ -24,11 +24,11 @@ title: Publications
 <!--#### Journals-->
 
 -	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
-	[*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
+	[*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems*](http://dx.doi.org/10.1109/TKDE.2014.2330821). \
 	Accepted for publication in IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
 -   Dun Liu, Tianrui Li, **Junbo Zhang**. \
-    [*A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \ Accepted for publication in [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning)
+    [*A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems*](http://dx.doi.org/10.1016/j.ijar.2014.05.009). \ Accepted for publication in [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning).
 
 -  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
    *A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform*.\
