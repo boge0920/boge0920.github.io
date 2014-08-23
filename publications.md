@@ -28,10 +28,11 @@ title: Publications
 	Accepted for publication in IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
 -   Dun Liu, Tianrui Li, **Junbo Zhang**. \
-    [*A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \ Accepted for publication in [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning).
+    [*A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \
+    Accepted for publication in [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning).
 
 -  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
-   *A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform*.\
+   [*A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform.*](http://dx.doi.org/10.13328/j.cnki.jos.004590)\
     Accepted for publication in [**Journal of Software**](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
 
 -  Anping Zeng, Tianrui Li, **Junbo Zhang**, Hongmei Chen. \
