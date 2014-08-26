@@ -12,9 +12,8 @@ title: Publications
 <!--#### Conference Papers-->
 
 -	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
-	*Supervised Deep Learning with Auxiliary Networks.*\
-	The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)).
-<!--http://dx.doi.org/10.1145/2623330.2623618-->
+	[*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
+	In: Proceedings of the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)), New York, USA, 2014, pp. 353-361. 
 <!--
 -   Chuan Luo, Tianrui Li, Hongmei Chen, **Junbo Zhang**. \
     *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
