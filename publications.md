@@ -26,6 +26,10 @@ title: Publications
 	[*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
 	Accepted for publication in IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
 
+-	Anping Zeng, Tianrui Li, Dun Liu, **Junbo Zhang**, Hongmei Chen.\
+	[*A Fuzzy rough set approach for incremental feature selection on hybrid information systems.*](http://dx.doi.org/10.1016/j.fss.2014.08.014)\
+	Accepted for publication in [**Fuzzy Sets and Systems**](http://www.journals.elsevier.com/fuzzy-sets-and-systems).
+
 -   Dun Liu, Tianrui Li, **Junbo Zhang**. \
     [*A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \
     Accepted for publication in [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning).
