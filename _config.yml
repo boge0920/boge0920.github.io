@@ -41,6 +41,6 @@ links:
   #  url:          /zhang-cv.pdf
   #- name:         RESUME
   #  url:          /junbo-resume.pdf
-pygments:         true
+highlighter:      pygments
 permalink:        pretty
 
