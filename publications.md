@@ -30,7 +30,7 @@ title: Publications
 
 2.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
     [*Incremental Updating Approximations in Probabilistic Rough Sets Under the Variation of Attributes*](http://dx.doi.org/10.1016/j.knosys.2014.09.008) \
-    Accepted for publication in [**Knowledge-Based Systems**](http://www.journals.elsevier.com/knowledge-based-systems).
+    [**Knowledge-Based Systems**](http://www.journals.elsevier.com/knowledge-based-systems), vol. 73, pp. 81–96, 2015.
 
 3.	Anping Zeng, Tianrui Li, Dun Liu, **Junbo Zhang**, Hongmei Chen.\
 	[*A Fuzzy Rough Set Approach for Incremental Feature Selection on Hybrid Information Systems.*](http://dx.doi.org/10.1016/j.fss.2014.08.014)\
