@@ -22,7 +22,14 @@ disqus_shortname:
 # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:
 # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: 'UA-57015390-2' # set tracking, remove from /javascripts/basic.js if unwanted.
+
+analytics :
+  provider : google
+  google:
+    tracking_id : 'UA-57015390-2'
+  getclicky :
+    site_id
 
 links:
   - name:         HOME
