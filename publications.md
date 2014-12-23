@@ -9,7 +9,7 @@ title: Publications
 
 * * *
 
-### Conference Papers
+#### Conference Papers
 
 1.	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
 	[*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
@@ -21,6 +21,20 @@ title: Publications
     *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
     In: Proceedings of the Joint Conference of 13th China Conference on Rough Sets and Soft Computing, 7th China Conference on Web Intelligence, 7th China Conference on Granular Computing (**CRSSC-CWI-CGrC 2013**), Zhangzhou, China, 2013. (in Chinese) (**Outstanding Student Paper Award**)
 -->
+
+1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
+     [*PLAR: Parallel Large-scale Attribute Reduction on Cloud
+    Systems.*](http://dx.doi.org/10.1109/PDCAT.2013.36 )\
+     The 14th International Conference on Parallel and Distributed
+    Computing, Applications and Technologies
+   ([**PDCAT 2013**](http://pdcat13.csie.ntust.edu.tw/)), Taipei, 2013, pp. 184-191.
+
+1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
+     [*Parallel Rough Set Based Knowledge Acquisition Using MapReduce
+    from Big Data.*](http://doi.acm.org/10.1145/2351316.2351320)\
+     ACM SIGKDD 2012 Workshop on Big Data Mining
+    ([**BigMine 2012**](http://kdd2012.sigkdd.org/workshops.shtml)), Beijing,
+    China, pp. 20-27,2012.
 
 #### Journal Papers
 
@@ -82,6 +96,10 @@ title: Publications
 3.   **Junbo Zhang**, Tianrui Li, Da Ruan, Dun Liu.\
      [*Neighborhood Rough Sets for Dynamic Data Mining.*](http://dx.doi.org/10.1002/int.21523)\
      [**International Journal of Intelligent Systems**](http://onlinelibrary.wiley.com/journal/10.1002/[ISSN]1098-111X), vol. 27, no. 4, pp. 317-342, 2012.
+
+3.	Dun Liu, Tianrui Li, Da Ruan, **Junbo Zhang**.\
+	 [*Incremental learning optimization on knowledge discovery in dynamic business intelligent systems*](http://dx.doi.org/10.1007/s10898-010-9607-8
+), [**Journal of Global Optimization**](http://www.springer.com/business+%26+management/operations+research/journal/10898), vol. 51, no. 27: pp. 325-344, 2011.
 
 #### Book Chapter
 
