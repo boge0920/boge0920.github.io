@@ -1,7 +1,7 @@
-Junbo Zhang
+\texttt{Junbo Zhang}
 ===========
-
-\input{0-contact}
+\small
+\input{2-contact}
 
 \iffalse
 School of Information Science and Technology
@@ -20,13 +20,26 @@ Education
 ---------
 
 09/2009 - present
+:   **Southwest Jiaotong University**, Chengdu, Sichuan, China
+:   Ph.D. candidate in Compute Science, advised by [Prof. Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/index.htm) \& [Prof. Yi Pan](http://www.cs.gsu.edu/pan/)
+:	*Special Grade Scholarship for 5 years*
+
+
+09/2005 - 06/2009
+:   **Southwest Jiaotong University**, Chengdu, Sichuan, China
+:   Bachelor of Telecommunication Engineering in [**the Mao Yisheng Honors Class**](http://my.qy1896.com/en/)
+:   *Undergraduate Scholarship for 4 years*
+
+\iffalse
+09/2005 - present
 :   PhD Candidate in School of Information Science and Technology
-:   Southwest Jiaotong University, Chengdu, China
+:   **Southwest Jiaotong University**, Chengdu, China
 :   Supervisors: [Prof. Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/index.htm) \& [Prof. Yi Pan](http://www.cs.gsu.edu/pan/)
 
 09/2005 - 06/2009
 :   Bachelor of Telecommunication Engineering
 :   Southwest Jiaotong University, Chengdu, China
+\fi
 
 Experience
 ----------
@@ -37,11 +50,13 @@ Experience
 \fi 
 
 05/2013 - present
-:   Research Assistant at The Chinese University of Hong Kong, Hong Kong
+:   **The Chinese University of Hong Kong**, Hong Kong
+:	Research Assistant with [Prof. John C.S. Lui](http://www.cs.cuhk.hk/~cslui/)
 :   *Research and develop large-scale deep learning and feature engineering algorithms.*
 
 05/2013 - present
-:   Research Intern at [Huawei Noah's Ark Lab](http://www.noahlab.com.hk/), Hong Kong
+:   [**Huawei Noah's Ark Lab**](http://www.noahlab.com.hk/), Hong Kong
+:   Research Intern with [Dr. Wei Fan](http://www.weifan.info/)
 :   *Research and develop large-scale deep learning and feature engineering algorithms.*
 :   *Applied above techniques to telecommunication data mining and computer vision problems.*
 :   - \small Proposed a novel deep learning approach for learning high-level representation, which  is presented at the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)).
@@ -55,17 +70,19 @@ Experience
 \fi
 
 02/2012 - 02/2013
-:   Visiting PhD Student at Georgia State University, USA
+:   **Georgia State University**, Atlanta, GA, USA
+:	Research Assistant with [Prof. Yi Pan](http://www.cs.gsu.edu/pan/)
 :	*Research and develop parallel algorithms, large-scale algorithms in cloud computing and GPU cluster.*
 :   - \small Participated as a mentor in 8-week NSF REU Undergraduate Summer Research Program.
 :   - \small Proposed large-scale feature selection algorithms, provide HADOOP and SPARK implementations.
 :   - \small Proposed a composite relation for data fusion \& a novel parallel matrix algorithm using multi-GPU.
 
 08/2011 - 09/2011
-:   Intern at Belgian Nuclear Research Centre (SCK-CEN), Belgium
+:   **Belgian Nuclear Research Centre (SCK-CEN)**, Mol, Belgium
+:   Intern with [Dr. Klaas van der Meer](http://be.linkedin.com/pub/klaas-van-der-meer/b/a4b/393)
 :   *Research and develop incremenal and parallel algorithm for feature selection and knowledge acquisition.*
 
-Research Topics
+Research Interests
 --------
 
 - Deep Learning, Representation Learning, Feature Engineering
@@ -204,8 +221,8 @@ Awards & Honors
     Mathematical Contest in Modeling, China, 2007.
 -   The President Scholarship of School of Information Science and
     Technology, Southwest Jiaotong University, 2006, 2007.
--   2005-2009 Undergraduate Comprehensive Scholarship of Southwest
-    Jiaotong University.
+-   2005-2009 Undergraduate Scholarship of Southwest
+    Jiaotong University, China.
 
 
 Projects
@@ -281,35 +298,60 @@ Professional Activities
 
 ### Extracurricular Activities
 
--   IBM Cloud Academy CON, NC, Research Triangle Park (RTP), North
-    Carolina, USA, Apr. 2012.
--   2010 Workshop on Frontiers of Data Management, Soochow University,
-    Suzhou, China, Dec. 2010.
--   2010 Workshop on Massive Data Mining and Knowledge Discovery,
-    Southwest Jiaotong University, Chengdu, China, Nov. 2010.
--   2010 China Computer Federation Advanced Disciplines Lectures (the
+\renewenvironment{description}{
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{5em}}
+}{
+  \end{basedescript}
+}
+
+04/2012
+:	IBM Cloud Academy CON, NC, Research Triangle Park (RTP), North
+    Carolina, USA. 
+
+12/2010
+:	Workshop on Frontiers of Data Management, Soochow University,
+    Suzhou, China.
+    
+11/2010
+:	Workshop on Massive Data Mining and Knowledge Discovery,
+    Southwest Jiaotong University, Chengdu, China.
+
+11/2010
+:	China Computer Federation Advanced Disciplines Lectures (the
     11th issue) - Massive Data Mining and Knowledge Discovery, Southwest
-    Jiaotong University, Chengdu, China, Nov. 2010.
--   Intel Software College - Multi-core Programming for Academia, Fudan
-    University, Shanghai, China, 2010.
--   2010 National Graduate Summer School - Data Intensive Computing and
+    Jiaotong University, Chengdu, China. 
+
+08/2010
+:   Intel Software College - Multi-core Programming for Academia, Fudan
+    University, Shanghai, China.
+
+07/2010
+:	National Graduate Summer School - Data Intensive Computing and
     Unstructured Data Management, Renmin University of China, Beijing,
-    China, Jul. 2010.
--   2009 Workshop on Massive Data Mining and Knowledge Discovery,
-    Southwest Jiaotong University, Chengdu, China, Dec. 2009.
--   National Graduate Summer School (Dragon Star Plan) - Data Mining,
-    Zhejiang University, Hangzhou, China, 2009.
+    China.
+
+12/2009
+:	Workshop on Massive Data Mining and Knowledge Discovery,
+    Southwest Jiaotong University, Chengdu, China.
+    
+08/2009
+:	National Graduate Summer School (Dragon Star Plan) - Data Mining,
+    Zhejiang University, Hangzhou, China.
 
 
 Skills
 ------
 
 Operating System
-:   Linux-based OS, Mac OS, Windows XP, Windows 7/8
+:   Linux-based OS (e.g., Cent OS, Ubuntu), Mac OS, Windows XP, Windows 7/8
 
-Programming Language
-:   C, C++, CUDA C (GPU), Python, Java, Shell, Matlab (and various) languages with practical experiences.
+Programming
+:   C/C++, [CUDA C](http://www.nvidia.com/object/cuda_home_new.html) (for NVIDIA GPUs), Python, Java, Shell and various languages with practical experiences.
 
 Others
-:   Hadoop, Spark, Theano + Pylearn2 (GPU-based Deep Learning Packages), Weka, \LaTeX, MS Office(Visio, Word, Excel, PowerPoint)
+:   [Hadoop](http://hadoop.apache.org/)/[Spark](http://spark.apache.org/)/[Phoenix++](http://mapreduce.stanford.edu/)/[Twister](http://www.iterativemapreduce.org/) (MapReduce-like Softwares), [GraphChi](https://github.com/GraphChi) (Graph Computing System), [Theano](http://deeplearning.net/software/theano/)/[Pylearn2](http://deeplearning.net/software/pylearn2/) (GPU-based Deep Learning in Python), [Scikit-learn](http://scikit-learn.org/stable/) (Machine Learning in Python), [Weka](http://www.cs.waikato.ac.nz/ml/weka/)(Data Mining Software in Java), Matlab, \LaTeX, MS Office (e.g., Visio, Word, Excel, PowerPoint)
+
+Languages
+------
+Chinese (native), English (fluent)
 
