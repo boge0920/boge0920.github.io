@@ -2,8 +2,8 @@ PWD /Users/eric/GitHub/Blogs/boge0920.github.io/cv
 INPUT /usr/local/texlive/2013/texmf.cnf
 INPUT /usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt
-INPUT zhang-cv-selected-papers.tex
-OUTPUT zhang-cv-selected-papers.log
+INPUT zhang-cv-industry.tex
+OUTPUT zhang-cv-industry.log
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
@@ -206,9 +206,9 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/lastpage/lastpage.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/lastpage/lastpage.sty
-INPUT zhang-cv-selected-papers.aux
-INPUT zhang-cv-selected-papers.aux
-OUTPUT zhang-cv-selected-papers.aux
+INPUT zhang-cv-industry.aux
+INPUT zhang-cv-industry.aux
+OUTPUT zhang-cv-industry.aux
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tipa/t3cmr.fd
@@ -223,11 +223,11 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT zhang-cv-selected-papers.out
-INPUT zhang-cv-selected-papers.out
-INPUT zhang-cv-selected-papers.out
-INPUT zhang-cv-selected-papers.out
-OUTPUT zhang-cv-selected-papers.out
+INPUT zhang-cv-industry.out
+INPUT zhang-cv-industry.out
+INPUT zhang-cv-industry.out
+INPUT zhang-cv-industry.out
+OUTPUT zhang-cv-industry.out
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 INPUT 2-contact.tex
@@ -274,4 +274,4 @@ INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam1
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT zhang-cv-selected-papers.aux
+INPUT zhang-cv-industry.aux
