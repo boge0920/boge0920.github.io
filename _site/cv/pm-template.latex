@@ -1,10 +1,11 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$]{$documentclass$}
+%\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$]{$documentclass$}
+\documentclass[10pt,a4paper]{article}
 
 %% Added By Lucktroy
 \usepackage{booktabs}
 \usepackage{mdwlist}
 \renewenvironment{description}{
-  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{10em}}
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{8em}}
 }{
   \end{basedescript}
 }
@@ -19,6 +20,7 @@
   headheight=3ex,
   headsep=2ex
 }
+\usepackage{tgpagella} % Use the TeX Gyre Pagella font throughout the document
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -34,15 +36,15 @@ $endif$
 \else % if luatex or xelatex
   \usepackage{fontspec} 	% 允許設定字體
   \usepackage{xeCJK} 		% 分開設置中英文字型
-  \setCJKmainfont{LiHei Pro} 	% 設定中文字型
-  \setmainfont{Georgia} 	% 設定英文字型
-  \setromanfont{Georgia} 	% 字型
-  \setmonofont{Courier New}
-  \linespread{1.2}\selectfont 	% 行距
-  \XeTeXlinebreaklocale "zh" 	% 針對中文自動換行
-  \XeTeXlinebreakskip = 0pt plus 1pt % 字與字之間加入0pt至1pt的間距，確保左右對整齊
-  \parindent 0em 		% 段落縮進
-  \setlength{\parskip}{20pt} 	% 段落之間的距離
+  \setCJKmainfont{Adobe Kaiti Std} 	% 設定中文字型
+  %\setmainfont{Georgia} 	% 設定英文字型
+  %\setromanfont{Georgia} 	% 字型
+  %\setmonofont{Courier New}
+  %\linespread{1.2}\selectfont 	% 行距
+  %\XeTeXlinebreaklocale "zh" 	% 針對中文自動換行
+  %\XeTeXlinebreakskip = 0pt plus 1pt % 字與字之間加入0pt至1pt的間距，確保左右對整齊
+  %\parindent 0em 		% 段落縮進
+  %\setlength{\parskip}{20pt} 	% 段落之間的距離
   \ifxetex
     \usepackage{xltxtra,xunicode}
   \fi

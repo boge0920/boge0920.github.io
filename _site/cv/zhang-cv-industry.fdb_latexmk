@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1419518976 "zhang-cv-selected-papers.tex" "zhang-cv-selected-papers.pdf" "zhang-cv-selected-papers" 1419518979
+["pdflatex"] 1419655724 "zhang-cv-industry.tex" "zhang-cv-industry.pdf" "zhang-cv-industry" 1419655726
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -141,11 +141,11 @@
   "/usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt" 1378307889 3164686 f7978019a90364f37d642086999573ec ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
   "2-contact.tex" 1419353644 295 aa1a10836493380b80012f54359cf0aa ""
-  "zhang-cv-selected-papers.aux" 1419518979 2682 5ef2d886c27616aec12dccf360e45d53 ""
-  "zhang-cv-selected-papers.out" 1419518979 740 ae5b6e95dc5aee11aed1c9bd959f43c1 ""
-  "zhang-cv-selected-papers.tex" 1419518976 24104 d40bebb3a258278c1a7f73e9aa62aad6 ""
+  "zhang-cv-industry.aux" 1419655726 2324 278333b4fb3364d2411bd0b32516402f ""
+  "zhang-cv-industry.out" 1419655726 700 474c901bcd0535a04225ad609b0121b6 ""
+  "zhang-cv-industry.tex" 1419655724 20649 ebb4ad9628081e4b310f193e3fe2307e ""
   (generated)
-  "zhang-cv-selected-papers.aux"
-  "zhang-cv-selected-papers.log"
-  "zhang-cv-selected-papers.out"
-  "zhang-cv-selected-papers.pdf"
+  "zhang-cv-industry.out"
+  "zhang-cv-industry.pdf"
+  "zhang-cv-industry.aux"
+  "zhang-cv-industry.log"

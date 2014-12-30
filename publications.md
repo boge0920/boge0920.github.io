@@ -38,10 +38,10 @@ title: Publications
 
 #### Journal Papers
 
-1.	**Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
-	[*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
-	Accepted for publication in IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)).
-
+1.  **Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
+    [*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
+    IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)), vol. 27, no. 2, pp. 326-339, 2015.
+    
 2.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
     [*Incremental Updating Approximations in Probabilistic Rough Sets Under the Variation of Attributes*](http://dx.doi.org/10.1016/j.knosys.2014.09.008) \
     [**Knowledge-Based Systems**](http://www.journals.elsevier.com/knowledge-based-systems), vol. 73, pp. 81–96, 2015.
