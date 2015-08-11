@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1425532368 "zhang-cv-industry.tex" "zhang-cv-industry.pdf" "zhang-cv-industry" 1425532370
+["pdflatex"] 1427356110 "zhang-cv-industry-with-summary.tex" "zhang-cv-industry-with-summary.pdf" "zhang-cv-industry-with-summary" 1427356113
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2013/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -140,12 +140,12 @@
   "/usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf" 1366045088 31707 0953c15448e216a6585e92ee639d2dc2 ""
   "/usr/local/texlive/2013/texmf-var/web2c/xetex/xelatex.fmt" 1378307889 3164686 f7978019a90364f37d642086999573ec ""
   "/usr/local/texlive/2013/texmf.cnf" 1369923207 577 cbc827f6294276973a1952e86e8ad73a ""
-  "2-contact.tex" 1425532228 375 8f7296be96eb0781fe8088c4ce50f524 ""
-  "zhang-cv-industry.aux" 1425532370 2324 278333b4fb3364d2411bd0b32516402f ""
-  "zhang-cv-industry.out" 1425532370 700 474c901bcd0535a04225ad609b0121b6 ""
-  "zhang-cv-industry.tex" 1425532366 21009 2efbff8918f3d3095f645e9070a8adf4 ""
+  "2-contact.tex" 1427355517 460 9a39610c267eb724a36e860e349433b0 ""
+  "zhang-cv-industry-with-summary.aux" 1427356112 2867 51ec04b7f30c1707fc4530661aa1baae ""
+  "zhang-cv-industry-with-summary.out" 1427356113 760 a60a450dd94ba6b30dc6f2bcd2c81879 ""
+  "zhang-cv-industry-with-summary.tex" 1427356108 24325 9c571d5870a6a7f7f21024dde351f87c ""
   (generated)
-  "zhang-cv-industry.aux"
-  "zhang-cv-industry.pdf"
-  "zhang-cv-industry.out"
-  "zhang-cv-industry.log"
+  "zhang-cv-industry-with-summary.pdf"
+  "zhang-cv-industry-with-summary.aux"
+  "zhang-cv-industry-with-summary.log"
+  "zhang-cv-industry-with-summary.out"

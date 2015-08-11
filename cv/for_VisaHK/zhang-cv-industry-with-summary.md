@@ -16,6 +16,15 @@ Junbo Zhang is currently a Research Assistant at The Chinese University of Hong 
 He received his B.Eng. degree in Telecommunication Engineering (the Mao Yisheng Honors Class) from Southwest Jiaotong University. He was a visiting Ph.D. student at the Department of Computer Science, Georgia State University (Feb. 2012 - Feb. 2013) and an Intern at the Belgian Nuclear Research Centre (SCK-CEN), Belgium (Aug. 2011 - Sep. 2011). He is a student member of both ACM and China Computer Federation.
 \fi
 
+Summary
+-------
+
+\noindent \textit{I am currently a Junior Research Assistant at The Chinese University of Hong Kong.}
+
+\noindent I am a Ph.D. candidate at Southwest Jiaotong University. I received my B.Eng. degree in the Mao Yisheng Honors Class from Southwest Jiaotong University, 2005. I was a visiting Ph.D. student at the Department of Computer Science, Georgia State University (Feb. 2012 - Feb. 2013) and an Intern at the Belgian Nuclear Research Centre (SCK-CEN), Belgium (Aug. 2011 - Sep. 2011). I am a student member of ACM, IEEE and CCF (China Computer Federation).
+
+From 2009, I started my research on data mining, incremental learning & deep learning. My work focus on feature engineering, deep feature learning & fusion from multi-source heterogeneous data. With semi-supervised/supervised learning, we proposed a novel deep learning model to learn high-level features from both labeled & unlabeled data, which was presented at the top conference (SIGKDD 2014). For data fusion, we proposed a composite relation based method. One journal paper was published based on this work and another journal manuscript is under review.
+
 Education
 ---------
 
@@ -50,32 +59,19 @@ Experience
 \fi
 
 05/2013 - present
-:   [**Huawei Noah's Ark Lab**](http://www.noahlab.com.hk/), Shatin, New Territories, Hong Kong
-:   Research Intern with [Dr. Wei Fan](http://www.weifan.info/)
+:   **The Chinese University of Hong Kong**, Shatin, New Territories, Hong Kong
 :   *Research and develop large-scale deep learning and feature engineering algorithms.*
+:   - \small Research on Feature Learning. Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, including sequences, graphs, images, etc. With TL, one can easily learn structure \& high-level features from heterogeneous data, followed by feature fusion. \texttt{The draft is being prepared}.
+
 :   - \small Proposed a novel deep learning model named SUGAR. SUGAR regularizes the network construction by utilizing similarity or dissimilarity constraints between data pairs, rather than sample-specific annotations. Such side information is more flexible and greatly mitigates the workload of annotators. Unlike prior works, SUGAR decouples the supervision information and intrinsic data structure. It includes two heterogeneous networks, capturing supervision and unsupervised data structure, respectively. \texttt{The work has been presented at} [*KDD 2014*](http://www.kdd.org/kdd2014/). \texttt{Code:} <https://github.com/lucktroy/sugar>.
 
-:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative frequent sequential patterns via model-based search tree. It is the core component of a subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. The related prediction system is being deployed and tested for the real-world application, serving millions of consumers. \texttt{Patent Pending}.
+:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative frequent sequential patterns via model-based search tree. It is the core component of a subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. Then, we combined FSP-MbT Features & Expert Features from multi-source heterogeneous data and built the related prediction system, which is being deployed and tested for the real-world application, serving millions of consumers. \texttt{Patent Pending}.
 
 :	- \small Proposed a locally linear deep learning model (LLDL) for large-scale stellar spectrum recognition. The characteristics of stellar spectra include: the massive volume, ultrahigh dimensionality (>5K), and significantly low signal/noise ratio (<10). Using GPU, stochastic gradient descent (SGD), and Dropout, LLDL can model the locally linear structures found in the stellar spectra. Experimental results show that LLDL achieves up to 100% improvements over both popular deep neural networks and shallow SVM and Logistic Regression. \texttt{Paper is under review}.
 
-\iffalse
-:   - \small Research on Transformational Learning (TL, the generation of deep learning). Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, including sequences, graphs, images, etc. \texttt{The draft is being prepared}.
-\fi
-
-05/2013 - present
-:   **The Chinese University of Hong Kong**, Shatin, New Territories, Hong Kong
-:	Research Assistant with [Prof. John C.S. Lui](http://www.cs.cuhk.hk/~cslui/)
-:   *Research and develop large-scale deep learning and feature engineering algorithms.*
-
-\iffalse
-5/2013 - present
-:   Research Assistant at The Chinese University of Hong Kong, Hong Kong
-\fi
 
 02/2012 - 02/2013
 :   **Georgia State University**, Atlanta, GA, USA
-:	Research Assistant with [Prof. Yi Pan](http://www.cs.gsu.edu/pan/)
 :	*Research and develop parallel algorithms, large-scale algorithms in cloud computing and GPU cluster.*
 :   - \small Participated as a mentor in 8-week NSF REU Undergraduate Summer Research Program.
 :   - \small Proposed large-scale feature selection algorithms, provide HADOOP and SPARK implementations.
@@ -83,7 +79,6 @@ Experience
 
 08/2011 - 09/2011
 :   **Belgian Nuclear Research Centre (SCK-CEN)**, Mol, Belgium
-:   Intern with [Dr. Klaas van der Meer](http://be.linkedin.com/pub/klaas-van-der-meer/b/a4b/393)
 :   *Research and develop incremenal and parallel algorithm for feature selection and knowledge acquisition.*
 
 Awards & Honors
@@ -114,6 +109,7 @@ Awards & Honors
 :	First Prize in the $9^{\text{th}}$ National Postgraduate
     Mathematical Contest in Modeling, China.
 
+
 2009, 2011
 :	Second Prize in the $6^{\text{th}}$ \& $8^{\text{th}}$ National Postgraduate Mathematical contest
     in Modeling, China.
@@ -127,6 +123,7 @@ Awards & Honors
 2007
 :	Second Prize (the $12^{\text{th}}$ Place in person) in the TopCoder Sichuan
     Provincial Contest, China.
+    
 
 2006, 2007
 :	The President Scholarship, School of Information Science and
@@ -154,18 +151,58 @@ Publications
 
 \small
 
-1.  **Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
-    [*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
-    Proceedings of the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)), New York, USA, 2014, pp. 353-361.\
-    (<font color='red'>AR: 151/1036 = 14.6%</font>)
+#### Conference Papers
+
+1.	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
+	[*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
+	Proceedings of the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)), New York, USA, 2014, pp. 353-361.\
+    (<font color='red'>AR: 151/1036 = 14.6%</font>)\
+    [[paper](/papers/kdd14_zhang.pdf)] [[slides](/papers/kdd14_slides_zhang.pdf)] [[poster](/papers/kdd14_poster_zhang.pdf)]
+<!--
+-   Chuan Luo, Tianrui Li, Hongmei Chen, **Junbo Zhang**. \
+    *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
+    In: Proceedings of the Joint Conference of 13th China Conference on Rough Sets and Soft Computing, 7th China Conference on Web Intelligence, 7th China Conference on Granular Computing (**CRSSC-CWI-CGrC 2013**), Zhangzhou, China, 2013. (in Chinese) (**Outstanding Student Paper Award**)
+-->
+
+1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
+     [*PLAR: Parallel Large-scale Attribute Reduction on Cloud
+    Systems.*](http://dx.doi.org/10.1109/PDCAT.2013.36 )\
+     The 14th International Conference on Parallel and Distributed
+    Computing, Applications and Technologies
+   ([**PDCAT 2013**](http://pdcat13.csie.ntust.edu.tw/)), Taipei, 2013, pp. 184-191.
+
+1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
+     [*Parallel Rough Set Based Knowledge Acquisition Using MapReduce
+    from Big Data.*](http://doi.acm.org/10.1145/2351316.2351320)\
+     ACM SIGKDD 2012 Workshop on Big Data Mining
+    ([**BigMine 2012**](http://kdd2012.sigkdd.org/workshops.shtml)), Beijing,
+    China, pp. 20-27,2012.
+
+#### Journal Papers
 
 1.  **Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
     [*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
     IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)), vol. 27, no. 2, pp. 326-339, 2015.
+    
+2.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
+    [*Incremental Updating Approximations in Probabilistic Rough Sets Under the Variation of Attributes*](http://dx.doi.org/10.1016/j.knosys.2014.09.008) \
+    [**Knowledge-Based Systems**](http://www.journals.elsevier.com/knowledge-based-systems), vol. 73, pp. 81–96, 2015.
+
+3.	Anping Zeng, Tianrui Li, Dun Liu, **Junbo Zhang**, Hongmei Chen.\
+	[*A Fuzzy Rough Set Approach for Incremental Feature Selection on Hybrid Information Systems.*](http://dx.doi.org/10.1016/j.fss.2014.08.014)\
+	[**Fuzzy Sets and Systems**](http://www.journals.elsevier.com/fuzzy-sets-and-systems), vol. 258, pp. 39–60, 2015.
+
+3.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
+    [*A Rough Set-based Incremental Approach for Learning Knowledge in Dynamic Incomplete Information Systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \
+    [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning), vol 55, no. 8, pp. 1764–1786, 2014.
 
 3.  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
-   [*A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform.*](http://www.jos.org.cn/ch/reader/view_abstract.aspx?file_no=4590)\
+   [*A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform.*](http://dx.doi.org/10.13328/j.cnki.jos.004590)\
     Accepted for publication in [**Journal of Software**](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
+
+3.  Anping Zeng, Tianrui Li, **Junbo Zhang**, Hongmei Chen. \
+    [*Incremental Maintenance of Rough Fuzzy Set Approximations under the Variation of Object Set*](http://dx.doi.org/10.3233/FI-2014-1051).\
+    [**Fundamenta Informaticae**](http://www.iospress.nl/journal/fundamenta-informaticae), vol. 132, no. 3, pp. 401-422, 2014.
 
 3.   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan.\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using Rough Set Theory on Different MapReduce Runtime Systems.*](http://dx.doi.org/10.1016/j.ijar.2013.08.003)\
@@ -182,6 +219,12 @@ Publications
      [**Tsinghua Science and Technology**](http://qhxb.lib.tsinghua.edu.cn/english/), vol 18, no.
     1, pp. 1-9, 2013.
 
+
+3.   Yi Pan, **Junbo Zhang**.\
+     [*Parallel Programming on Cloud Computing Platforms: Challenges and Solutions.*](http://www.ftrai.org/xe/index.php?mid=joc_published&category=37964&search_keyword=section&search_target=title&document_srl=38459)\
+     [**KITCS/FTRA Journal of Convergence**](http://www.ftrai.org/joc/),
+    vol. 3, no. 4, pp. 23-28,2012.
+
 3.   **Junbo Zhang**, Tianrui Li, Da Ruan, Zizhe Gao, Chengbing Zhao.\
      [*A Parallel Method for Computing Rough Set Approximations.*](http://dx.doi.org/10.1016/j.ins.2011.12.036)\
      [**Information Sciences**](http://www.journals.elsevier.com/information-sciences),
@@ -196,21 +239,16 @@ Publications
      [*Neighborhood Rough Sets for Dynamic Data Mining.*](http://dx.doi.org/10.1002/int.21523)\
      [**International Journal of Intelligent Systems**](http://onlinelibrary.wiley.com/journal/10.1002/[ISSN]1098-111X), vol. 27, no. 4, pp. 317-342, 2012.
 
-
-3.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
-    [*A Rough Set-based Incremental Approach for Learning Knowledge in Dynamic Incomplete Information Systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \
-    [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning), vol 55, no. 8, pp. 1764–1786, 2014.
-
-
-3.   Yi Pan, **Junbo Zhang**.\
-     [*Parallel Programming on Cloud Computing Platforms: Challenges and Solutions.*](http://www.ftrai.org/xe/index.php?mid=joc_published&category=37964&search_keyword=section&search_target=title&document_srl=38459)\
-     [**KITCS/FTRA Journal of Convergence**](http://www.ftrai.org/joc/),
-    vol. 3, no. 4, pp. 23-28,2012.
-
 3.	Dun Liu, Tianrui Li, Da Ruan, **Junbo Zhang**.\
-	 [*Incremental learning optimization on knowledge discovery in dynamic business intelligent systems.*](http://dx.doi.org/10.1007/s10898-010-9607-8
-)\
- [**Journal of Global Optimization**](http://www.springer.com/business+%26+management/operations+research/journal/10898), vol. 51, no. 27: pp. 325-344, 2011.
+	 [*Incremental learning optimization on knowledge discovery in dynamic business intelligent systems*](http://dx.doi.org/10.1007/s10898-010-9607-8
+), [**Journal of Global Optimization**](http://www.springer.com/business+%26+management/operations+research/journal/10898), vol. 51, no. 27: pp. 325-344, 2011.
+
+#### Book Chapter
+
+1. **Junbo Zhang**, Tianrui Li, Da Ruan.\
+   [*Rough Sets Based Incremental Rule Acquisition in Set-Valued Information Systems.*](http://dx.doi.org/10.1007/978-3-642-24806-1_11)\
+    [**Autonomous Systems: Developments and Trends**](http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-24805-4), pp. 135-146, 2012.
+
 
 Programming and System Skills
 ------

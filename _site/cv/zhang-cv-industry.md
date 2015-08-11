@@ -1,4 +1,4 @@
-\texttt{Junbo Zhang} 
+\texttt{Junbo Zhang}
 ===========
 
 \input{2-contact}
@@ -47,20 +47,21 @@ Experience
 5/2013 - present
 :   Research Assistant at The Chinese University of Hong Kong, Hong Kong
 :	\& Research Intern at [Huawei Noah's Ark Lab (Hong Kong)](http://www.noahlab.com.hk/), Hong Kong
-\fi 
+\fi
 
 05/2013 - present
 :   [**Huawei Noah's Ark Lab**](http://www.noahlab.com.hk/), Shatin, New Territories, Hong Kong
 :   Research Intern with [Dr. Wei Fan](http://www.weifan.info/)
 :   *Research and develop large-scale deep learning and feature engineering algorithms.*
-:   - \small Research on Transformational Learning (TL, the generation of deep learning). Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, included sequences, graphs, images, etc. \texttt{The draft is being prepared}. 
+:   - \small Proposed a novel deep learning model named SUGAR. SUGAR regularizes the network construction by utilizing similarity or dissimilarity constraints between data pairs, rather than sample-specific annotations. Such side information is more flexible and greatly mitigates the workload of annotators. Unlike prior works, SUGAR decouples the supervision information and intrinsic data structure. It includes two heterogeneous networks, capturing supervision and unsupervised data structure, respectively. \texttt{The work has been presented at} [*KDD 2014*](http://www.kdd.org/kdd2014/). \texttt{Code:} <https://github.com/lucktroy/sugar>.
 
-:   - \small Proposed a novel deep learning model named SUGAR. SUGAR regularizes the network construction by utilizing similarity or dissimilarity constraints between data pairs, rather than sample-specific annotations. Such kind of side information is more flexible and greatly mitigates the workload of annotators. Secondly, unlike prior works, SUGAR decouples the supervision information and intrinsic data structure. SUGAR includes two heterogeneous networks, each of which encodes either supervision or unsupervised data structure respectively. \texttt{The work has been presented at} [*KDD 2014*](http://www.kdd.org/kdd2014/). \texttt{Code:} <https://github.com/lucktroy/sugar>. 
+:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative frequent sequential patterns via model-based search tree. It is the core component of a subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. The related prediction system is being deployed and tested for the real-world application, serving millions of consumers. \texttt{Patent Pending}.
 
-:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative and essential frequent sequential patterns via model-based search tree. It is the core component of the subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. The related prediction system is being deployed and tested for real-world application, which includes millions of consumers. \texttt{Patent Pending}.
+:	- \small Proposed a locally linear deep learning model (LLDL) for large-scale stellar spectrum recognition. The characteristics of stellar spectra include: the massive volume, ultrahigh dimensionality (>5K), and significantly low signal/noise ratio (<10). Using GPU, stochastic gradient descent (SGD), and Dropout, LLDL can model the locally linear structures found in the stellar spectra. Experimental results show that LLDL achieves up to 100% improvements over both popular deep neural networks and shallow SVM and Logistic Regression. \texttt{Paper is under review}.
 
-:	- \small Proposed a locally linear deep learning model (LLDL) for large-scale stellar spectrum recognition. The characteristics of stellar spectra: the massive volume, ultrahigh dimensionality (>5K), and significantly low signal/noise ratio (<10). Using GPU, stochastic gradient descent (SGD) and Dropout, LLDL can model the locally linear structures found in the stellar spectra. Experimental results show that LLDL achieves up to 100% improvements over both popular deep neural networks and shallow SVM and Logistic Regression. \texttt{Paper is under review}.
-
+\iffalse
+:   - \small Research on Transformational Learning (TL, the generation of deep learning). Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, including sequences, graphs, images, etc. \texttt{The draft is being prepared}.
+\fi
 
 05/2013 - present
 :   **The Chinese University of Hong Kong**, Shatin, New Territories, Hong Kong
@@ -103,7 +104,7 @@ Awards & Honors
 :	"[Si Shi Yang Hua](http://baike.baidu.com/view/644025.htm) 竢实扬华"
      Medal in [Southwest Jiaotong
     University](http://www.swjtu.edu.cn/), 2012. (Top 1/1000, the
-    students' top honor of Southwest Jiaotong University). 
+    students' top honor of Southwest Jiaotong University).
 
 2009-2014
 :	Special Grade Scholarship for Ph.D. Students, Southwest
@@ -162,6 +163,10 @@ Publications
     [*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
     IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)), vol. 27, no. 2, pp. 326-339, 2015.
 
+3.  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
+   [*A Parallel and Incremental Algorithm for Updating Knowledge Based on Rough Sets in Cloud Computing Platform.*](http://www.jos.org.cn/ch/reader/view_abstract.aspx?file_no=4590)\
+    Accepted for publication in [**Journal of Software**](http://www.jos.org.cn/ch/index.aspx). (in Chinese)
+
 3.   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan.\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using Rough Set Theory on Different MapReduce Runtime Systems.*](http://dx.doi.org/10.1016/j.ijar.2013.08.003)\
      [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning),
@@ -190,18 +195,18 @@ Publications
 3.   **Junbo Zhang**, Tianrui Li, Da Ruan, Dun Liu.\
      [*Neighborhood Rough Sets for Dynamic Data Mining.*](http://dx.doi.org/10.1002/int.21523)\
      [**International Journal of Intelligent Systems**](http://onlinelibrary.wiley.com/journal/10.1002/[ISSN]1098-111X), vol. 27, no. 4, pp. 317-342, 2012.
-     
+
 
 3.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
     [*A Rough Set-based Incremental Approach for Learning Knowledge in Dynamic Incomplete Information Systems.*](http://dx.doi.org/10.1016/j.ijar.2014.05.009) \
     [**International Journal of Approximate Reasoning**](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning), vol 55, no. 8, pp. 1764–1786, 2014.
-      
-         
+
+
 3.   Yi Pan, **Junbo Zhang**.\
      [*Parallel Programming on Cloud Computing Platforms: Challenges and Solutions.*](http://www.ftrai.org/xe/index.php?mid=joc_published&category=37964&search_keyword=section&search_target=title&document_srl=38459)\
      [**KITCS/FTRA Journal of Convergence**](http://www.ftrai.org/joc/),
     vol. 3, no. 4, pp. 23-28,2012.
-         
+
 3.	Dun Liu, Tianrui Li, Da Ruan, **Junbo Zhang**.\
 	 [*Incremental learning optimization on knowledge discovery in dynamic business intelligent systems.*](http://dx.doi.org/10.1007/s10898-010-9607-8
 )\
@@ -300,12 +305,12 @@ Professional Activities
 
 04/2012
 :	IBM Cloud Academy CON, NC, Research Triangle Park (RTP), North
-    Carolina, USA. 
+    Carolina, USA.
 
 12/2010
 :	Workshop on Frontiers of Data Management, Soochow University,
     Suzhou, China.
-    
+
 11/2010
 :	Workshop on Massive Data Mining and Knowledge Discovery,
     Southwest Jiaotong University, Chengdu, China.
@@ -313,7 +318,7 @@ Professional Activities
 11/2010
 :	China Computer Federation Advanced Disciplines Lectures (the
     11th issue) - Massive Data Mining and Knowledge Discovery, Southwest
-    Jiaotong University, Chengdu, China. 
+    Jiaotong University, Chengdu, China.
 
 08/2010
 :   Intel Software College - Multi-core Programming for Academia, Fudan
@@ -327,7 +332,7 @@ Professional Activities
 12/2009
 :	Workshop on Massive Data Mining and Knowledge Discovery,
     Southwest Jiaotong University, Chengdu, China.
-    
+
 08/2009
 :	National Graduate Summer School (Dragon Star Plan) - Data Mining,
     Zhejiang University, Hangzhou, China.

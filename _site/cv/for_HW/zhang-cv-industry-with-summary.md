@@ -16,6 +16,15 @@ Junbo Zhang is currently a Research Assistant at The Chinese University of Hong 
 He received his B.Eng. degree in Telecommunication Engineering (the Mao Yisheng Honors Class) from Southwest Jiaotong University. He was a visiting Ph.D. student at the Department of Computer Science, Georgia State University (Feb. 2012 - Feb. 2013) and an Intern at the Belgian Nuclear Research Centre (SCK-CEN), Belgium (Aug. 2011 - Sep. 2011). He is a student member of both ACM and China Computer Federation.
 \fi
 
+Summary
+-------
+
+\noindent \textit{I am currently a Research Intern at Huawei Noah's Ark Lab (Hong Kong) and a Research Assistant at The Chinese University of Hong Kong.}
+
+\noindent I am a Ph.D. candidate at Southwest Jiaotong University. I received my B.Eng. degree in the Mao Yisheng Honors Class from Southwest Jiaotong University, 2005. I was a visiting Ph.D. student at the Department of Computer Science, Georgia State University (Feb. 2012 - Feb. 2013) and an Intern at the Belgian Nuclear Research Centre (SCK-CEN), Belgium (Aug. 2011 - Sep. 2011). I am a student member of ACM, IEEE and CCF (China Computer Federation).
+
+From 2009, I started my research on data mining, incremental learning & deep learning. My work focus on feature engineering, deep feature learning & fusion from multi-source heterogeneous data. With semi-supervised/supervised learning, we proposed a novel deep learning model to learn high-level features from both labeled & unlabeled data, which was presented at the top conference (SIGKDD 2014). For data fusion, we proposed a composite relation based method. One journal paper was published based on this work and another journal manuscript is under review.
+
 Education
 ---------
 
@@ -51,17 +60,16 @@ Experience
 
 05/2013 - present
 :   [**Huawei Noah's Ark Lab**](http://www.noahlab.com.hk/), Shatin, New Territories, Hong Kong
-:   Research Intern with [Dr. Wei Fan](http://www.weifan.info/)
+:   Research Intern with [Dr. Wei Fan](http://www.weifan.info/) and [Dr. Zhenguo Li](http://www.ee.columbia.edu/~zgli/)
 :   *Research and develop large-scale deep learning and feature engineering algorithms.*
+:   - \small Research on Feature Learning. Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, including sequences, graphs, images, etc. With TL, one can easily learn structure \& high-level features from heterogeneous data, followed by feature fusion. \texttt{The draft is being prepared}.
+
 :   - \small Proposed a novel deep learning model named SUGAR. SUGAR regularizes the network construction by utilizing similarity or dissimilarity constraints between data pairs, rather than sample-specific annotations. Such side information is more flexible and greatly mitigates the workload of annotators. Unlike prior works, SUGAR decouples the supervision information and intrinsic data structure. It includes two heterogeneous networks, capturing supervision and unsupervised data structure, respectively. \texttt{The work has been presented at} [*KDD 2014*](http://www.kdd.org/kdd2014/). \texttt{Code:} <https://github.com/lucktroy/sugar>.
 
-:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative frequent sequential patterns via model-based search tree. It is the core component of a subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. The related prediction system is being deployed and tested for the real-world application, serving millions of consumers. \texttt{Patent Pending}.
+:	- \small Proposed a novel algorithm (FSP-MbT) for mining discriminative frequent sequential patterns via model-based search tree. It is the core component of a subsequent prediction model, which is used for the consumer complaint problem in the telecommunications industry. Then, we combined FSP-MbT Features & Expert Features from multi-source heterogeneous data and built the related prediction system, which is being deployed and tested for the real-world application, serving millions of consumers. \texttt{Patent Pending}.
 
 :	- \small Proposed a locally linear deep learning model (LLDL) for large-scale stellar spectrum recognition. The characteristics of stellar spectra include: the massive volume, ultrahigh dimensionality (>5K), and significantly low signal/noise ratio (<10). Using GPU, stochastic gradient descent (SGD), and Dropout, LLDL can model the locally linear structures found in the stellar spectra. Experimental results show that LLDL achieves up to 100% improvements over both popular deep neural networks and shallow SVM and Logistic Regression. \texttt{Paper is under review}.
 
-\iffalse
-:   - \small Research on Transformational Learning (TL, the generation of deep learning). Using deep learning techniques with decision tree, model-based search tree or graphical models, TL can learn structure \& high-level knowledge representations from most kinds of data, including sequences, graphs, images, etc. \texttt{The draft is being prepared}.
-\fi
 
 05/2013 - present
 :   **The Chinese University of Hong Kong**, Shatin, New Territories, Hong Kong
@@ -114,6 +122,7 @@ Awards & Honors
 :	First Prize in the $9^{\text{th}}$ National Postgraduate
     Mathematical Contest in Modeling, China.
 
+\iffalse
 2009, 2011
 :	Second Prize in the $6^{\text{th}}$ \& $8^{\text{th}}$ National Postgraduate Mathematical contest
     in Modeling, China.
@@ -127,6 +136,7 @@ Awards & Honors
 2007
 :	Second Prize (the $12^{\text{th}}$ Place in person) in the TopCoder Sichuan
     Provincial Contest, China.
+\fi
 
 2006, 2007
 :	The President Scholarship, School of Information Science and
