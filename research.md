@@ -6,7 +6,7 @@ title: Research
 ### Research Topics
 * * *
 
-My research interests are listed as follows.
+My research interests include
 <!-- [deep
 learning](http://en.wikipedia.org/wiki/Deep_learning), [data
 mining](http://en.wikipedia.org/wiki/Data_mining), [cloud
@@ -16,7 +16,8 @@ set](http://en.wikipedia.org/wiki/Rough_set).
 -->
 
 - Deep Learning, Representation Learning
-- Big Data Mining
+- Big Data Analytics
+- Spatio-temporal Data Mining
 
 <!--
 - Deep Learning, Representation Learning, Feature Selection
