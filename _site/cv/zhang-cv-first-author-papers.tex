@@ -1,0 +1,310 @@
+%\documentclass[]{article}
+\documentclass[10pt,a4paper]{article}
+
+%% Added By Lucktroy
+\usepackage{booktabs}
+\usepackage{mdwlist}
+\renewenvironment{description}{
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{8em}}
+}{
+  \end{basedescript}
+}
+%%
+
+\usepackage{geometry} 		% 設定邊界
+\geometry{
+  top=1in,
+  inner=1in,
+  outer=1in,
+  bottom=1in,
+  headheight=3ex,
+  headsep=2ex
+}
+\usepackage{tgpagella} % Use the TeX Gyre Pagella font throughout the document
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec} 	% 允許設定字體
+  \usepackage{xeCJK} 		% 分開設置中英文字型
+  \setCJKmainfont{Adobe Kaiti Std} 	% 設定中文字型
+  %\setmainfont{Georgia} 	% 設定英文字型
+  %\setromanfont{Georgia} 	% 字型
+  %\setmonofont{Courier New}
+  %\linespread{1.2}\selectfont 	% 行距
+  %\XeTeXlinebreaklocale "zh" 	% 針對中文自動換行
+  %\XeTeXlinebreakskip = 0pt plus 1pt % 字與字之間加入0pt至1pt的間距，確保左右對整齊
+  %\parindent 0em 		% 段落縮進
+  %\setlength{\parskip}{20pt} 	% 段落之間的距離
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\title{\huge 在OSX平台上的XeLaTeX中文測試} % 設置標題，使用巨大字體
+\author{FoolEgg.com} 		% 設置作者
+\date{February 2013} 		% 設置日期
+\usepackage{titling}
+\setlength{\droptitle}{-8em} 	% 將標題移動至頁面的上面
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancyplain}
+
+\setcounter{secnumdepth}{0}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{\texttt{Junbo Zhang}}\label{section}
+
+\subsection{Publications}\label{publications}
+
+\small
+
+\paragraph{Journal Papers}\label{journal-papers}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Junbo Zhang}, Yun Zhu, Yi Pan, Tianrui Li.\\
+  \href{}{\emph{Efficient Parallel Boolean Matrix Based Algorithms for
+  Computing Composite Rough Set Approximations.}}\\
+  \href{http://www.journals.elsevier.com/information-sciences}{\textbf{Information
+  Sciences}}, accept, 2015.
+\item
+  \textbf{Junbo Zhang}, Jian-Syuan Wong, Yi Pan, Tianrui Li.\\
+  \href{http://dx.doi.org/10.1109/TKDE.2014.2330821}{\emph{A Parallel
+  Matrix-based Method for Computing Approximations in Incomplete
+  Information Systems.}}\\ IEEE Transactions on Knowledge and Data
+  Engineering
+  (\href{http://www.computer.org/portal/web/tkde}{\textbf{TKDE}}), 2015.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\\
+  \href{http://dx.doi.org/10.13328/j.cnki.jos.004590}{\emph{A Parallel
+  and Incremental Algorithm for Updating Knowledge Based on Rough Sets
+  in Cloud Computing Platform.}}\\ Accepted for publication in
+  \href{http://www.jos.org.cn/ch/index.aspx}{\textbf{Journal of
+  Software}}. (in Chinese)
+\item
+  \textbf{Junbo Zhang}, Jian-Syuan Wong, Tianrui Li, Yi Pan.\\
+  \href{http://dx.doi.org/10.1016/j.ijar.2013.08.003}{\emph{A Comparison
+  of Parallel Large-scale Knowledge Acquisition Using Rough Set Theory
+  on Different MapReduce Runtime Systems.}}\\
+  \href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{\textbf{International
+  Journal of Approximate Reasoning}}, vol.~55, no. 3, pp.~896-907, 2014.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Hongmei Chen.\\
+  \href{http://dx.doi.org/10.1016/j.ins.2013.08.016}{\emph{Composite
+  Rough Sets for Dynamic Data Mining.}}\\
+  \href{http://www.journals.elsevier.com/information-sciences}{\textbf{Information
+  Sciences}}, vol.~257, pp.~81-100, 2014.
+\item
+  \textbf{Junbo Zhang}, Dong Xiang, Tianrui Li, Yi Pan.\\
+  \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6449402\&contentType=Journals+\%26+Magazines\&queryText\%3DM2M\%3A+A+simple+Matlab-to-MapReduce+translator+for+Cloud+Computing}{\emph{M2M:
+  A Simple Matlab-to-MapReduce Translator for Cloud Computing.}}\\
+  \href{http://qhxb.lib.tsinghua.edu.cn/english/}{\textbf{Tsinghua
+  Science and Technology}}, vol 18, no. 1, pp.~1-9, 2013.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Zizhe Gao, Chengbing
+  Zhao.\\ \href{http://dx.doi.org/10.1016/j.ins.2011.12.036}{\emph{A
+  Parallel Method for Computing Rough Set Approximations.}}\\
+  \href{http://www.journals.elsevier.com/information-sciences}{\textbf{Information
+  Sciences}}, vol.~194, pp.~209-223, 2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Dun Liu.\\
+  \href{http://dx.doi.org/10.1016/j.ijar.2012.01.001}{\emph{Rough Sets
+  Based Matrix Approaches with Dynamic Attribute Variation in Set-valued
+  Information Systems.}}\\
+  \href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{\textbf{International
+  Journal of Approximate Reasoning}}, vol.~53, no. 4, pp.~620-635, 2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan, Dun Liu.\\
+  \href{http://dx.doi.org/10.1002/int.21523}{\emph{Neighborhood Rough
+  Sets for Dynamic Data Mining.}}\\
+  \href{http://onlinelibrary.wiley.com/journal/10.1002/{[}ISSN{]}1098-111X}{\textbf{International
+  Journal of Intelligent Systems}}, vol.~27, no. 4, pp.~317-342, 2012.
+\end{enumerate}
+
+\subsubsection{Conference Papers}\label{conference-papers}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Junbo Zhang}, Guangjian Tian, Yadong Mu, Wei Fan.\\
+  \href{http://dx.doi.org/10.1145/2623330.2623618}{\emph{Supervised Deep
+  Learning with Auxiliary Networks.}}\\ Proceedings of the 20th ACM
+  SIGKDD Conference on Knowledge Discovery and Data Mining
+  (\href{http://www.kdd.org/kdd2014/}{\textbf{KDD 2014}}), New York,
+  USA, 2014, pp.~353-361.\\ (AR: 151/1036 = 14.6\%)
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yi Pan.\\
+  \href{http://dx.doi.org/10.1109/PDCAT.2013.36}{\emph{PLAR: Parallel
+  Large-scale Attribute Reduction on Cloud Systems.}}\\ The 14th
+  International Conference on Parallel and Distributed Computing,
+  Applications and Technologies
+  (\href{http://pdcat13.csie.ntust.edu.tw/}{\textbf{PDCAT 2013}}),
+  Taipei, 2013, pp.~184-191.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yi Pan.\\
+  \href{http://doi.acm.org/10.1145/2351316.2351320}{\emph{Parallel Rough
+  Set Based Knowledge Acquisition Using MapReduce from Big Data.}}\\ ACM
+  SIGKDD 2012 Workshop on Big Data Mining
+  (\href{http://kdd2012.sigkdd.org/workshops.shtml}{\textbf{BigMine
+  2012}}), Beijing, China, pp.~20-27,2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yi Pan.\\ \href{}{\emph{PLAR:
+  Parallel Large-scale Attribute Reduction on Cloud Systems.}}\\ The
+  14th International Conference on Parallel and Distributed Computing,
+  Applications and Technologies
+  (\href{http://pdcat13.csie.ntust.edu.tw/}{PDCAT}), Taipei, 2013.
+\item
+  \textbf{Junbo Zhang}, Yun Zhu, Yi Pan, Tianrui Li.\\ \href{}{\emph{A
+  Parallel Implementation of Computing Composite Rough Set
+  Approximations on GPUs.}}\\ \href{http://cs.smu.ca/jrs2013/}{The
+  Eighth International Conference on Rough Sets and Knowledge Technology
+  (RSKT)}, Halifax, Canada, pp. 240-250, 2013.
+\item
+  \textbf{Junbo Zhang}, Jian-Syuan Wong, Tianrui Li, Yi Pan.\\
+  \href{http://dx.doi.org/10.1109/ISBAST.2013.32}{\emph{H2T: A Simple
+  Hadoop-to-Twister Translator for Cloud Computing.}}\\ 2013
+  International Symposium on Biometrics and Security Technologies
+  (ISBAST)\emph{,} Chengdu, China, pp.~180-186, 2013.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Hongmei Chen.\\
+  \href{http://www.springerlink.com/content/g621611026534074/?MUD=MP}{\emph{Composite
+  Rough Sets.}}\\ Proceedings of the 4th International Conference on
+  Artificial Intelligence and Computational Intelligence (AICI),
+  Chengdu, China, pp.~150-159, 2012.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Yan Yang, Wei Wang.\\
+  \href{http://dx.doi.org/10.1007/978-3-642-24425-4_23}{\emph{Neighborhood
+  Rough Sets Based Matrix Approach for Calculation of the
+  Approximations.}}\\ Proceedings of the 6th International Conference on
+  Rough Sets and Knowledge Technology
+  (\href{http://rskt.cs.uregina.ca}{RSKT}), Banff, Canada, pp.~166-171,
+  2011.
+\item
+  \textbf{Junbo Zhang},Tianrui Li, Lei Wang.\\
+  \href{http://dx.doi.org/10.1109/ISKE.2010.5680797}{\emph{A New Method
+  for Calculation of the Approximations Under the Probabilistic Rough
+  Sets.}}\\ Proceedings of 2010 IEEE International Conference on
+  Intelligent Systems and Knowledge Engineering
+  (\href{http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709}{ISKE}),
+  Hangzhou, China, pp.~73-76, 2010.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Dun Liu.\\
+  \href{http://dx.doi.org/10.1109/ISKE.2010.5680798}{\emph{An Approach
+  for Incremental Updating Approximations in Variable Precision Rough
+  Sets While Attribute Generalized.}}\\ Proceedings of 2010 IEEE
+  International Conference on Intelligent Systems and Knowledge
+  Engineering
+  (\href{http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5676709}{ISKE}),
+  Hangzhou, China, pp.~77-81, 2010.
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Muhammad Zia ur Rehman, Shaoyong
+  Li.\\ \href{http://dx.doi.org/10.1142/9789814324700_0116}{An Approach
+  for Selection of the Proper Lever of Granularity in Granular
+  Computing}. Proceedings of the 9th International FLINS Conference on
+  Foundations and Applications of Computational Intelligence
+  (\href{http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=7359\&copyownerid=2}{FLINS}),
+  Chengdu, China, pp.~764-769, 2010.
+\end{enumerate}
+
+\paragraph{Book Chapter}\label{book-chapter}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  \textbf{Junbo Zhang}, Tianrui Li, Da Ruan.\\
+  \href{http://dx.doi.org/10.1007/978-3-642-24806-1_11}{\emph{Rough Sets
+  Based Incremental Rule Acquisition in Set-Valued Information
+  Systems.}}\\
+  \href{http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-24805-4}{\textbf{Autonomous
+  Systems: Developments and Trends}}, pp.~135-146, 2012.
+\end{enumerate}
+
+\subsection{Awards \& Honors}\label{awards-honors}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  National Scholarship, China, 2013.
+\item
+  National Scholarship, China, 2012.
+\item
+  ``\href{http://baike.baidu.com/view/644025.htm}{Si Shi Yang Hua}''
+  Medal in \href{http://www.swjtu.edu.cn/}{Southwest Jiaotong
+  University}, 2012. (Top 1/1000, the students' top honor of Southwest
+  Jiaotong University).
+\item
+  2009-2014 Special Grade Scholarship for PhD Students,
+  \href{http://www.swjtu.edu.cn/}{Southwest Jiaotong University}.
+\item
+  First Prize in the 9th ``Huawei Cup'' National Postgraduate
+  Mathematical Contest in Modeling, China, 2012.
+\item
+  Second Prize in the 8th National Postgraduate Mathematical contest in
+  Modeling, China, 2011.
+\item
+  Second Prize in the 2nd ``Huawei Cup'' Innovation Programming Contest,
+  China, 2010.
+\item
+  Second Prize in the 6th National Postgraduate Mathematical contest in
+  Modeling, China, 2009.
+\item
+  Second Prize in the 2nd Sichuan Provincial Programming Contest, China,
+  2008.
+\item
+  Honorable Mention in the 33th ACM Asia Programming Contest, 2008.
+\item
+  Second Prize in the 1st Sichuan Provincial Programming Contest, China,
+  2007.
+\item
+  Second Prize (the 12th Place in person) in the TopCoder Sichuan
+  Provincial Contest, China, 2007.
+\item
+  Third Prize in National Electrical Engineering Association
+  Mathematical Contest in Modeling, China, 2007.
+\item
+  The President Scholarship of School of Information Science and
+  Technology, Southwest Jiaotong University, 2006, 2007.
+\item
+  2005-2009 Undergraduate Scholarship of Southwest Jiaotong University,
+  China.
+\end{itemize}
+
+\end{document}
+
