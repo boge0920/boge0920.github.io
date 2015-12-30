@@ -21,11 +21,10 @@ title: Publications
     *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
     In: Proceedings of the Joint Conference of 13th China Conference on Rough Sets and Soft Computing, 7th China Conference on Web Intelligence, 7th China Conference on Granular Computing (**CRSSC-CWI-CGrC 2013**), Zhangzhou, China, 2013. (in Chinese) (**Outstanding Student Paper Award**)
 -->
-
 1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
      [*PLAR: Parallel Large-scale Attribute Reduction on Cloud
     Systems.*](http://dx.doi.org/10.1109/PDCAT.2013.36 )\
-     The 14th International Conference on Parallel and Distributed
+     The 1th International Conference on Parallel and Distributed
     Computing, Applications and Technologies
    ([**PDCAT 2013**](http://pdcat13.csie.ntust.edu.tw/)), Taipei, 2013, pp. 184-191.
 
@@ -36,12 +35,17 @@ title: Publications
     ([**BigMine 2012**](http://kdd2012.sigkdd.org/workshops.shtml)), Beijing,
     China, pp. 20-27,2012.
 
+
 #### Journal Papers
+
+1.  **Junbo Zhang**, Yun Zhu, Yi Pan, Tianrui Li. \
+    [*Efficient parallel boolean matrix based algorithms for computing composite rough set approximations*](http://dx.doi.org/10.1016/j.ins.2015.09.022) \
+    [**Information Sciences**](http://www.journals.elsevier.com/information-sciences), vol. 329, pp. 287–302, 2016.
 
 1.  **Junbo Zhang**, Jian-Syuan Wong, Yi Pan, Tianrui Li. \
     [*A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems.*](http://dx.doi.org/10.1109/TKDE.2014.2330821) \
     IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](http://www.computer.org/portal/web/tkde)), vol. 27, no. 2, pp. 326-339, 2015.
-    
+
 2.   Dun Liu, Tianrui Li, **Junbo Zhang**. \
     [*Incremental Updating Approximations in Probabilistic Rough Sets Under the Variation of Attributes*](http://dx.doi.org/10.1016/j.knosys.2014.09.008) \
     [**Knowledge-Based Systems**](http://www.journals.elsevier.com/knowledge-based-systems), vol. 73, pp. 81–96, 2015.
