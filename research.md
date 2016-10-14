@@ -17,6 +17,7 @@ set](http://en.wikipedia.org/wiki/Rough_set).
 
 - Deep Learning, Representation Learning
 - Big Data Analytics
+- Large-scale Machine Learning
 - Spatio-temporal Data Mining
 
 <!--

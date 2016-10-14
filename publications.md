@@ -11,6 +11,14 @@ title: Publications
 
 #### Conference
 
+1.  **Junbo Zhang**, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi. \
+    DNN-Based Prediction Model for Spatial-Temporal Data \
+    ACM International Conference on Advances in Geographical Information Systems (ACM SIGSPATIAL), 2016. Demo Paper
+
+2.  Xiuwen Yi, Yu Zheng, **Junbo Zhang**, Tianrui Li \
+    ST-MVL: Filling Missing Values in Geo-sensory Time Series Data \
+    International Joint Conference on Artificial Intelligence (IJCAI), 2016
+
 1.	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
 	[*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
 	Proceedings of the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)), New York, USA, 2014, pp. 353-361.\
