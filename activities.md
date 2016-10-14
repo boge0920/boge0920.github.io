@@ -25,6 +25,7 @@ title: Activities
 -   [International Journal of Computational Intelligence Systems
     (IJCIS)](http://www.atlantis-press.com/publications/ijcis/)
 
+<!--
 #### Extracurricular Activities
 
 -   IBM Cloud Academy CON, NC, Research Triangle Park (RTP), North
@@ -45,3 +46,4 @@ title: Activities
     Southwest Jiaotong University, Chengdu, China, Dec. 2009.
 -   National Graduate Summer School (Dragon Star Plan) - Data Mining,
     Zhejiang University, Hangzhou, China, 2009.
+-->
