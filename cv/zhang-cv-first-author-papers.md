@@ -18,7 +18,7 @@ Publications
 3.  **Junbo Zhang**, Tianrui Li, Yi Pan, Chuan Luo, Fei Teng.\
    [*Parallel and Incremental Algorithm for Knowledge Update Based on Rough Sets in Cloud Platform.*](http://dx.doi.org/10.13328/j.cnki.jos.004590)\
     [**Journal of Software**](http://www.jos.org.cn/ch/index.aspx), vol. 26, pp. 1064-1078, 2015. (in Chinese) \
-    张钧波,李天瑞,潘毅,罗川,滕飞.云平台下基于粗糙集的并行增量知识更新算法.软件学报,2015,26(5):1064-1078. 
+    张钧波,李天瑞,潘毅,罗川,滕飞.云平台下基于粗糙集的并行增量知识更新算法.软件学报,2015,26(5):1064-1078.
 
 3.   **Junbo Zhang**, Jian-Syuan Wong, Tianrui Li, Yi Pan.\
      [*A Comparison of Parallel Large-scale Knowledge Acquisition Using Rough Set Theory on Different MapReduce Runtime Systems.*](http://dx.doi.org/10.1016/j.ijar.2013.08.003)\
