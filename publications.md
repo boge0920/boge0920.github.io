@@ -5,22 +5,18 @@ title: Publications
 
 ## Selected Publications
 [[DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/z/Zhang:Junbo.html)] [[Google Scholar](http://scholar.google.com/citations?user=sQpMBqsAAAAJ&hl=en) ] [[AMiner](http://arnetminer.org/person/junbo-zhang-1557448.html)]
-<!--[[Full Publications](/fullpublications)]-->
+
 
 * * *
 
-#### Conference Papers
+#### Conference
 
 1.	**Junbo Zhang**, Guangjian Tian, Yadong Mu, Wei Fan. \
 	[*Supervised Deep Learning with Auxiliary Networks.*](http://dx.doi.org/10.1145/2623330.2623618)\
 	Proceedings of the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining ([**KDD 2014**](http://www.kdd.org/kdd2014/)), New York, USA, 2014, pp. 353-361.\
     (<font color='red'>AR: 151/1036 = 14.6%</font>)\
     [[paper](/papers/kdd14_zhang.pdf)] [[slides](/papers/kdd14_slides_zhang.pdf)] [[poster](/papers/kdd14_poster_zhang.pdf)]
-<!--
--   Chuan Luo, Tianrui Li, Hongmei Chen, **Junbo Zhang**. \
-    *Dominance-based Rough Sets in Composite Ordered Information Systems*.\
-    In: Proceedings of the Joint Conference of 13th China Conference on Rough Sets and Soft Computing, 7th China Conference on Web Intelligence, 7th China Conference on Granular Computing (**CRSSC-CWI-CGrC 2013**), Zhangzhou, China, 2013. (in Chinese) (**Outstanding Student Paper Award**)
--->
+
 1.  **Junbo Zhang**, Tianrui Li, Yi Pan.\
      [*PLAR: Parallel Large-scale Attribute Reduction on Cloud
     Systems.*](http://dx.doi.org/10.1109/PDCAT.2013.36 )\
@@ -36,7 +32,7 @@ title: Publications
     China, pp. 20-27,2012.
 
 
-#### Journal Papers
+#### Journal
 
 1.  **Junbo Zhang**, Yun Zhu, Yi Pan, Tianrui Li. \
     [*Efficient parallel boolean matrix based algorithms for computing composite rough set approximations*](http://dx.doi.org/10.1016/j.ins.2015.09.022) \
