@@ -7,13 +7,14 @@ title: Activities
 * * *
 
 #### Review for Journal
-
+-   [ACM Transactions on Intelligent Systems and Technology (TIST)](http://tist.acm.org/)
 -   [ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
 -   [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 -   [IEEE Transactions on Computers
     (TOC)](http://www.computer.org/portal/web/tc)
 -   [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](http://www.computer.org/portal/web/tcbb)
 -   [IEEE Transactions on NanoBioscience](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7728)
+-   [Information Sciences](http://ees.elsevier.com/ins)
 -   [Neurocomputing](http://ees.elsevier.com/neucom)
 -   [Knowledge-Based Systems](http://ees.elsevier.com/knosys)
 -   [World Wide Web Journal

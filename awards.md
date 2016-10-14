@@ -19,6 +19,7 @@ title: Awards
     Jiaotong University](http://www.swjtu.edu.cn/)
 -   First Prize in the 9th "Huawei Cup" National Postgraduate
     Mathematical Contest in Modeling, China, 2012
+<!--
 -   Second Prize in the 8th National Postgraduate Mathematical contest
     in Modeling, China, 2011
 -   Second Prize in the 2nd "Huawei Cup" Innovation Programming Contest,
@@ -36,4 +37,5 @@ title: Awards
 -   The President Scholarship of School of Information Science and
     Technology, Southwest Jiaotong University, 2006, 2007
 -   2005-2009 Undergraduate Comprehensive Scholarship of Southwest
-    Jiaotong University.
+    Jiaong University.
+-->

@@ -32,17 +32,17 @@ analytics :
     site_id
 
 links:
-  - name:         HOME
+  - name:         Home
     url:          /
-  - name:         RESEARCH
+  - name:         Research
     url:          /research
-  - name:         PUBLICATIONS
+  - name:         Publications
     url:          /publications
-  - name:         AWARDS
+  - name:         Awards
     url:          /awards
-  - name:         ACTIVITIES
+  - name:         Professional Activities
     url:          /activities
-  - name:         LINKS
+  - name:         Links
     url:          /links
   #- name:         CV
   #  url:          /zhang-cv.pdf
