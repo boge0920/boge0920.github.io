@@ -13,7 +13,7 @@ title: Publications
 
 1.  **Junbo Zhang**, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi. \
     DNN-Based Prediction Model for Spatial-Temporal Data \
-    ACM International Conference on Advances in Geographical Information Systems (ACM SIGSPATIAL), 2016. Demo Paper
+    ACM International Conference on Advances in Geographical Information Systems (ACM SIGSPATIAL), 2016. Demo Paper.
 
 2.  Xiuwen Yi, Yu Zheng, **Junbo Zhang**, Tianrui Li \
     ST-MVL: Filling Missing Values in Geo-sensory Time Series Data \
