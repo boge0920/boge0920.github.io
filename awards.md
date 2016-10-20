@@ -5,6 +5,7 @@ title: Awards
 
 ### Selected Awards & Honors
 * * *
+-   ACM Chengdu Doctoral Dissertation Award, 2016
 -   Excellent Doctoral Dissertation Nomination Award of Chinese Association for Artificial Intelligence (CAAI), 2016
 -   Best Paper Award of IEEE Chengdu Section, 2016
 -   Best Paper Award of Tsinghua Science and Technology, 2015
