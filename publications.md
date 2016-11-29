@@ -15,7 +15,7 @@ title: Publications
 
 ### Conference
 -   **Junbo Zhang**, Yu Zheng, Dekang Qi. \
-    [**Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**](https://www.microsoft.com/en-us/research/publication/deep-spatio-temporal-residual-networks-for-citywide-crowd-flows-prediction/)，\
+    [**Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**](https://www.microsoft.com/en-us/research/publication/deep-spatio-temporal-residual-networks-for-citywide-crowd-flows-prediction/),\
     Thirty-First AAAI Conference on Artificial Intelligence (AAAI), 2017.
 
 -   **Junbo Zhang**, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi. \
