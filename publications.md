@@ -19,7 +19,7 @@ title: Publications
     Thirty-First AAAI Conference on Artificial Intelligence (AAAI), 2017.
 
 -   **Junbo Zhang**, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi. \
-    **DNN-Based Prediction Model for Spatio-Temporal Data**, \
+    [**DNN-Based Prediction Model for Spatio-Temporal Data**](https://www.microsoft.com/en-us/research/publication/dnn-based-prediction-model-spatial-temporal-data/), \
     ACM International Conference on Advances in Geographical Information Systems (ACM SIGSPATIAL), 2016 (Demo Paper)
 
 -   Xiuwen Yi, Yu Zheng, **Junbo Zhang**, Tianrui Li.  \
