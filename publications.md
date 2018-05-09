@@ -14,6 +14,10 @@ title: Publications
     Science Press (In Chinese), ISBN 978-7-030-48368-3, 2016.06
 
 ### Conference
+-   Dong Wang, **Junbo Zhang**, Wei Cao, Jian Li, Yu Zheng. \
+    [**When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks**](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/travel-time-estimation-dnn.pdf),\
+    Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.
+
 -   **Junbo Zhang**, Yu Zheng, Dekang Qi. \
     [**Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**](https://www.microsoft.com/en-us/research/publication/deep-spatio-temporal-residual-networks-for-citywide-crowd-flows-prediction/),\
     Thirty-First AAAI Conference on Artificial Intelligence (AAAI), 2017.
@@ -31,6 +35,10 @@ title: Publications
 	ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2014 \
 
 ### Journal
+-   **Junbo Zhang**, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi, Tianrui Li. \
+    [**Predicting Citywide Crowd Flows Using Deep Spatio-Temporal Residual Networks**](https://www.sciencedirect.com/science/article/pii/S0004370218300973),\
+    [Artificial Intelligence](http://www.journals.elsevier.com/artint), 259: 147-166, 2018
+
 -  **Junbo Zhang**, Yun Zhu, Yi Pan, Tianrui Li. \
     [**Efficient parallel boolean matrix based algorithms for computing composite rough set approximations**.](http://dx.doi.org/10.1016/j.ins.2015.09.022) \
     [Information Sciences](http://www.journals.elsevier.com/information-sciences), 329: 287–302, 2016
