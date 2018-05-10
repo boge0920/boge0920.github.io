@@ -1,0 +1,238 @@
+%\documentclass[]{article}
+\documentclass[10pt,a4paper]{article}
+
+
+
+%% Added By Lucktroy
+\usepackage{booktabs}
+\usepackage{mdwlist}
+\renewenvironment{description}{
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{8em}}
+}{
+  \end{basedescript}
+}
+%%
+
+\usepackage{geometry} 		% 設定邊界
+\geometry{
+  top=1in,
+  inner=1in,
+  outer=1in,
+  bottom=1in,
+  headheight=3ex,
+  headsep=2ex
+}
+\usepackage{tgpagella} % Use the TeX Gyre Pagella font throughout the document
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+
+\newcommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec} 	% 允許設定字體
+  \usepackage{xeCJK} 		% 分開設置中英文字型
+  \setCJKmainfont{SimSun} 	% 設定中文字型
+  %\setmainfont{Georgia} 	% 設定英文字型
+  %\setromanfont{Georgia} 	% 字型
+  %\setmonofont{Courier New}
+  %\linespread{1.2}\selectfont 	% 行距
+  %\XeTeXlinebreaklocale "zh" 	% 針對中文自動換行
+  %\XeTeXlinebreakskip = 0pt plus 1pt % 字與字之間加入0pt至1pt的間距，確保左右對整齊
+  %\parindent 0em 		% 段落縮進
+  %\setlength{\parskip}{20pt} 	% 段落之間的距離
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\title{\huge 在OSX平台上的XeLaTeX中文測試} % 設置標題，使用巨大字體
+\author{FoolEgg.com} 		% 設置作者
+\date{February 2013} 		% 設置日期
+\usepackage{titling}
+\setlength{\droptitle}{-8em} 	% 將標題移動至頁面的上面
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancyplain}
+
+\setcounter{secnumdepth}{0}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{\texorpdfstring{\texttt{Junbo Zhang}}{}}\label{section}
+
+\input{MSRA-contact}
+
+\iffalse
+\input{Summary} \fi
+
+\subsection{Education}\label{education}
+
+\begin{description}
+\tightlist
+\item[09/2009 - 07/2016]
+\textbf{Southwest Jiaotong University}, Chengdu, Sichuan, China
+
+Ph.D.~in Compute Science, advised by
+\href{http://userweb.swjtu.edu.cn/Userweb/trli30/index.htm}{Prof.~Tianrui
+Li} \& \href{http://www.cs.gsu.edu/pan/}{Prof.~Yi Pan}
+\item[09/2005 - 06/2009]
+\textbf{Southwest Jiaotong University}, Chengdu, Sichuan, China
+
+Bachelor of Telecommunication Engineering in
+\href{http://my.qy1896.com/en/}{\textbf{the Mao Yisheng Honors Class}}
+\end{description}
+
+\subsection{Experience}\label{experience}
+
+\begin{description}
+\tightlist
+\item[09/2015 - present]
+Associate Researcher at \textbf{Microsoft Research Asia}, Beijing,
+China.
+\item[05/2015 - 09/2015]
+Staff Researcher at \textbf{Lenovo}, Hong Kong
+\item[05/2013 - 05/2015]
+Research Assistant at \textbf{The Chinese University of Hong Kong}, Hong
+Kong
+\item[02/2012 - 02/2013]
+Visiting Ph.D.~student at \textbf{Georgia State University}, Atlanta,
+GA, USA
+\item[08/2011 - 09/2011]
+Intern at \textbf{Belgian Nuclear Research Centre (SCK-CEN)}, Mol,
+Belgium
+\end{description}
+
+\subsection{Awards \& Honors}\label{awards-honors}
+
+\renewenvironment{description}{
+  \begin{basedescript}{\desclabelstyle{\pushlabel}\desclabelwidth{5em}}
+}{
+  \end{basedescript}
+}
+
+\small
+
+\begin{description}
+\tightlist
+\item[2016]
+ACM Chengdu Doctoral Dissertation Award
+\item[2016]
+Best Paper Award of IEEE Chengdu Section
+\item[2015]
+Best Paper Award of Tsinghua Science and Technology
+\item[2013]
+Outstanding Ph.D.~Graduate of Sichuan Province
+\item[2012, 2013]
+National Scholarship, China.
+\item[2012]
+``\href{http://baike.baidu.com/view/644025.htm}{Si Shi Yang Hua}
+竢实扬华'' Medal in \href{http://www.swjtu.edu.cn/}{Southwest Jiaotong
+University}, 2012. (Top 1/1000, the students' top honor of Southwest
+Jiaotong University).
+\item[2009-2014]
+Special Grade Scholarship for Ph.D.~Students, Southwest Jiaotong
+University.
+\item[2012]
+First Prize in the \(9^{\text{th}}\) National Postgraduate Mathematical
+Contest in Modeling, China.
+\end{description}
+
+\subsection{Programming and System
+Skills}\label{programming-and-system-skills}
+
+\begin{description}
+\tightlist
+\item[Operating System]
+Linux-based OS (e.g., Cent OS, Ubuntu), Mac OS, Windows
+\item[Programming]
+C/C++, Python, Java, Shell, Matlab and various languages with practical
+experiences.
+\item[Others]
+Hadoop, Weka, \LaTeX, MS Office (Visio, Word, Excel, PowerPoint)
+\end{description}
+
+\subsection{Professional Activities}\label{professional-activities}
+
+\paragraph{Review for Journal}\label{review-for-journal}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{http://tist.acm.org/}{ACM Transactions on Intelligent Systems
+  and Technology (TIST)}
+\item
+  \href{http://tkdd.acm.org/}{ACM Transactions on Knowledge Discovery
+  from Data (TKDD)}
+\item
+  \href{http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036}{IEEE
+  Transactions on Cybernetics}
+\item
+  \href{http://www.computer.org/portal/web/tc}{IEEE Transactions on
+  Computers (TOC)}
+\item
+  \href{http://www.computer.org/portal/web/tcbb}{IEEE/ACM Transactions
+  on Computational Biology and Bioinformatics (TCBB)}
+\item
+  \href{http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7728}{IEEE
+  Transactions on NanoBioscience}
+\item
+  \href{http://ees.elsevier.com/ins}{Information Sciences}
+\item
+  \href{http://ees.elsevier.com/neucom}{Neurocomputing}
+\item
+  \href{http://ees.elsevier.com/knosys}{Knowledge-Based Systems}
+\item
+  \href{http://www.editorialmanager.com/wwwj/}{World Wide Web Journal
+  (WWWJ)}
+\item
+  \href{http://www.inderscience.com/jhome.php?jcode=ijcc}{International
+  Journal of Cloud Computing (IJCC)}
+\item
+  \href{http://www.inderscience.com/jhome.php?jcode=ijbra}{International
+  Journal of Bioinformatics Research and Applications (IJBRA)}
+\item
+  \href{http://www.atlantis-press.com/publications/ijcis/}{International
+  Journal of Computational Intelligence Systems (IJCIS)}
+\end{itemize}
+
+\subsection{Languages}\label{languages}
+
+Chinese (native), English (fluent)
+
+\end{document}
+
