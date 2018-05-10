@@ -26,6 +26,12 @@ title: Activities
 -   [International Journal of Computational Intelligence Systems
     (IJCIS)](http://www.atlantis-press.com/publications/ijcis/)
 
+#### Program Committee Member
+
+- AAAI 2018
+- CIKM 2017
+- UrbComp 2016,2017,2018
+
 <!--
 #### Extracurricular Activities
 

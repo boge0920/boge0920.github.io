@@ -11,7 +11,7 @@ pandoc:
 title:            Junbo Zhang | MSRA
 #lucktroy
 subTitle:         Simple, Easy, Fast
-plugins:          ./_plugins
+plugins_dir:  _plugins
 description:
 #A jekyll theme. Because I scribble.
 url:              # Site url.
