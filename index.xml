@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junbo Zhang on Junbo Zhang</title>
+    <link>/</link>
+    <description>Recent content in Junbo Zhang on Junbo Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Junbo Zhang - </copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Learning for Spatio-Temporal Data</title>
+      <link>/project/dl4stdata/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/project/dl4stdata/</guid>
+      <description>&lt;p&gt;Advances in location-acquisition and wireless communication technologies have led to wider availability of spatio-temporal (ST) data. Deep neural networks (DNNs) have been successfully applied to various problems, such as computer vision, speech recognition, natural language understanding. Being different from these domains, ST data has unique spatial properties (i.e. geographical hierarchy and distance) and temporal properties (i.e. closeness, period and trend). It is very challenging to capture all of these ST properties simultaneously.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Distributed Fusion Network for Air Quality Prediction</title>
+      <link>/publication/2018_kdd_deepair/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_kdd_deepair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>城市计算：用大数据和AI打造新型智能城市</title>
+      <link>/talk/2018-08-05-jinan-ccdm2018/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-08-05-jinan-ccdm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>城市计算：用大数据和AI打造新型智能城市</title>
+      <link>/talk/2018-07-13-guilin-gxnu/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-07-13-guilin-gxnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction</title>
+      <link>/publication/2018_ijcai_geoman/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_ijcai_geoman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Computing: Building Intelligent Cities Using Big Data and AI</title>
+      <link>/talk/2018-07-07-chongqing-bdai2018/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-07-07-chongqing-bdai2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting citywide crowd flows using deep spatio-temporal residual networks</title>
+      <link>/publication/2018_ai_stresnet/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_ai_stresnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List of News</title>
+      <link>/news/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July. 2018&lt;/strong&gt;:
+Paper accectped in KDD 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Apr. 2018&lt;/strong&gt;:
+Papers accectped in IJCAI 2018 and AI Journal.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dec. 2017&lt;/strong&gt;:
+Paper accectped in AAAI 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When Will You Arrive Estimating Travel Time Based on Deep Neural Networks</title>
+      <link>/publication/2018_aaai_deeptte/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_aaai_deeptte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction</title>
+      <link>/publication/2017_aaai_stresnet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2017_aaai_stresnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNN-Based Prediction Model for Spatial-Temporal Data</title>
+      <link>/publication/2016_sigspatial_deepst/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2016_sigspatial_deepst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

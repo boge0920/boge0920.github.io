@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Junbo Zhang</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Junbo Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Junbo Zhang - </copyright>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Junbo Zhang is currently a Data Scientist at JD Finance Group. His research interests include deep learning, big data analytics, large-scale machine learning, and spatio-temporal data mining. He also leads AI Platform Division of Urban Computing Business Unit at JD Finance Group.
+He has published over 30 research papers (e.g., AI, IEEE TKDE, KDD, AAAI, IJCAI) in refereed journals and conferences, among which one paper was selected as the ESI Hot Paper, two as the ESI Highly Cited Paper, and two as the Best Paper Award.</description>
+    </item>
+    
+    <item>
+      <title>Recent News</title>
+      <link>/home/news/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description> July. 2018: Paper accectped in KDD 2018.
+ Apr. 2018: Papers accectped in IJCAI 2018 and AI Journal.
+ Dec. 2017: Paper accectped in AAAI 2018.
+  </description>
+    </item>
+    
+    <item>
+      <title>Researches</title>
+      <link>/home/researches/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/home/researches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Awards &amp; Honors</title>
+      <link>/home/awards/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/home/awards/</guid>
+      <description> ACM Chengdu Doctoral Dissertation Award, 2016 Excellent Doctoral Dissertation Nomination Award of Chinese Association for Artificial Intelligence (CAAI), 2016 Best Paper Award of IEEE Chengdu Section, 2016 Best Paper Award of Tsinghua Science and Technology, 2015 Outstanding Ph.D. Graduate of Sichuan Province, 2013 National Scholarship, China, 2013 National Scholarship, China, 2012 &amp;ldquo;Si Shi Yang Hua ()&amp;rdquo; Medal in Southwest Jiaotong University, 2012. (Top 1&amp;frasl;1000, the students&amp;rsquo; top honor of Southwest Jiaotong University) 2009-2014 Special Grade Scholarship for PhD Students, Southwest Jiaotong University First Prize in the 9th &amp;ldquo;Huawei Cup&amp;rdquo; National Postgraduate Mathematical Contest in Modeling, China, 2012  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/home/services/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/home/services/</guid>
+      <description> Program Committee Member  AAAI 2018 CIKM 2017 UrbComp 2016,2017,2018  Reviewer for Journals  ACM Transactions on Intelligent Systems and Technology (TIST) ACM Transactions on Knowledge Discovery from Data (TKDD) IEEE Transactions on Cybernetics IEEE Transactions on Computers (TOC) IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) IEEE Transactions on NanoBioscience Information Sciences Neurocomputing Knowledge-Based Systems World Wide Web Journal (WWWJ) International Journal of Cloud Computing (IJCC) International Journal of Bioinformatics Research and Applications (IJBRA) International Journal of Computational Intelligence Systems (IJCIS)  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

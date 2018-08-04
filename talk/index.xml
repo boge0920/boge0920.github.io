@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Junbo Zhang</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Junbo Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Junbo Zhang - </copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>城市计算：用大数据和AI打造新型智能城市</title>
+      <link>/talk/2018-08-05-jinan-ccdm2018/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-08-05-jinan-ccdm2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>城市计算：用大数据和AI打造新型智能城市</title>
+      <link>/talk/2018-07-13-guilin-gxnu/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-07-13-guilin-gxnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Computing: Building Intelligent Cities Using Big Data and AI</title>
+      <link>/talk/2018-07-07-chongqing-bdai2018/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/2018-07-07-chongqing-bdai2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
