@@ -66,5 +66,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Efficient parallel boolean matrix based algorithms for computing composite rough set approximations</title>
+      <link>/publication/2016_ins_multigpu/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2016_ins_multigpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems</title>
+      <link>/publication/2015_tkde_paralleliis/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2015_tkde_paralleliis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Deep Learning with Auxiliary Networks</title>
+      <link>/publication/2014_kdd_sugar/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2014_kdd_sugar/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

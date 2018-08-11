@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Estimating the travel time of any path (denoted by a sequence of connected road segments) in a city is of great importance to traffic monitoring, route planning, ridesharing, taxi/Uber dispatching, etc. However, it is a very challenging problem, affected by diverse complex factors, including spatial correlations, temporal dependencies, external conditions (e.g. weather, traffic lights). Prior work usually focuses on estimating the travel times of individual road segments or sub-paths and then summing up these times, which leads to an inaccurate estimation because such approaches do not consider road intersections/traffic lights, and local errors may accumulate. To address these issues, we propose an end-to-end Deep learning framework for Travel Time Estimation (called DeepTTE) that estimates the travel time of the whole path directly. More specifically, we present a geo-convolution operation by integrating the geographic information into the classical convolution, capable of capturing spatial correlations. By stacking recurrent unit on the geo-convoluton layer, our DeepTTE can capture the temporal dependencies as well. A multi-task learning component is given on the top of DeepTTE, that learns to estimate the travel time of both the entire path and each local path simultaneously during the training phase. Extensive experiments on two trajectory datasets show our DeepTTE significantly outperforms the state-of-the-art methods.">
+  <meta name="description" content="As the volume of data grows at an unprecedented rate, large-scale data mining and knowledge discovery present a tremendous challenge. Rough set theory, which has been used successfully in solving problems in pattern recognition, machine learning, and data mining, centers around the idea that a set of distinct objects may be approximated via a lower and upper bound. In order to obtain the benefits that rough sets can provide for data mining and related tasks, efficient computation of these approximations is vital. The recently introduced cloud computing model, MapReduce, has gained a lot of attention from the scientific community for its applicability to large-scale data analysis. In previous research, we proposed a MapReduce-based method for computing approximations in parallel, which can efficiently process complete data but fails in the case of missing (incomplete) data. To address this shortcoming, three different parallel matrix-based methods are introduced to process large-scale, incomplete data. All of them are built on MapReduce and implemented on Twister that is a lightweight MapReduce runtime system. The proposed parallel methods are then experimentally shown to be efficient for processing large-scale data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/2018_aaai_deeptte/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2015_tkde_paralleliis/">
 
   
 
@@ -66,26 +66,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/2018_aaai_deeptte/">
+  <link rel="canonical" href="/publication/2015_tkde_paralleliis/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Junbo Zhang">
-  <meta property="og:url" content="/publication/2018_aaai_deeptte/">
-  <meta property="og:title" content="When Will You Arrive Estimating Travel Time Based on Deep Neural Networks | Junbo Zhang">
-  <meta property="og:description" content="Estimating the travel time of any path (denoted by a sequence of connected road segments) in a city is of great importance to traffic monitoring, route planning, ridesharing, taxi/Uber dispatching, etc. However, it is a very challenging problem, affected by diverse complex factors, including spatial correlations, temporal dependencies, external conditions (e.g. weather, traffic lights). Prior work usually focuses on estimating the travel times of individual road segments or sub-paths and then summing up these times, which leads to an inaccurate estimation because such approaches do not consider road intersections/traffic lights, and local errors may accumulate. To address these issues, we propose an end-to-end Deep learning framework for Travel Time Estimation (called DeepTTE) that estimates the travel time of the whole path directly. More specifically, we present a geo-convolution operation by integrating the geographic information into the classical convolution, capable of capturing spatial correlations. By stacking recurrent unit on the geo-convoluton layer, our DeepTTE can capture the temporal dependencies as well. A multi-task learning component is given on the top of DeepTTE, that learns to estimate the travel time of both the entire path and each local path simultaneously during the training phase. Extensive experiments on two trajectory datasets show our DeepTTE significantly outperforms the state-of-the-art methods."><meta property="og:image" content="/img/2018_AI_STResNet.png">
+  <meta property="og:url" content="/publication/2015_tkde_paralleliis/">
+  <meta property="og:title" content="A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems | Junbo Zhang">
+  <meta property="og:description" content="As the volume of data grows at an unprecedented rate, large-scale data mining and knowledge discovery present a tremendous challenge. Rough set theory, which has been used successfully in solving problems in pattern recognition, machine learning, and data mining, centers around the idea that a set of distinct objects may be approximated via a lower and upper bound. In order to obtain the benefits that rough sets can provide for data mining and related tasks, efficient computation of these approximations is vital. The recently introduced cloud computing model, MapReduce, has gained a lot of attention from the scientific community for its applicability to large-scale data analysis. In previous research, we proposed a MapReduce-based method for computing approximations in parallel, which can efficiently process complete data but fails in the case of missing (incomplete) data. To address this shortcoming, three different parallel matrix-based methods are introduced to process large-scale, incomplete data. All of them are built on MapReduce and implemented on Twister that is a lightweight MapReduce runtime system. The proposed parallel methods are then experimentally shown to be efficient for processing large-scale data.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-01-01T00:00:00&#43;08:00">
+  <meta property="article:published_time" content="2015-02-01T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2018-01-01T00:00:00&#43;08:00">
-  
-
+  <meta property="article:modified_time" content="2015-02-01T00:00:00&#43;08:00">
   
 
   
 
-  <title>When Will You Arrive Estimating Travel Time Based on Deep Neural Networks | Junbo Zhang</title>
+  
+
+  <title>A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems | Junbo Zhang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -259,22 +259,13 @@
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-<div class="article-header">
-  
-  
-    <img src="/img/2018_AI_STResNet.png" class="article-banner" itemprop="image">
-  
-
-  
-</div>
-
 
 
   <div class="article-container">
-    <h1 itemprop="name">When Will You Arrive Estimating Travel Time Based on Deep Neural Networks</h1>
+    <h1 itemprop="name">A Parallel Matrix-based Method for Computing Approximations in Incomplete Information Systems</h1>
     <span class="pub-authors" itemprop="author">
       
-      Dong Wang, <strong>Junbo Zhang</strong>, Wei Cao, Jian Li, Yu Zheng
+      <strong>Junbo Zhang</strong>, Jian-Syuan Wong, Yi Pan, Tianrui Li
       
     </span>
     <span class="pull-right">
@@ -283,35 +274,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=When%20Will%20You%20Arrive%20Estimating%20Travel%20Time%20Based%20on%20Deep%20Neural%20Networks&amp;url=%2fpublication%2f2018_aaai_deeptte%2f"
+         href="https://twitter.com/intent/tweet?text=A%20Parallel%20Matrix-based%20Method%20for%20Computing%20Approximations%20in%20Incomplete%20Information%20Systems&amp;url=%2fpublication%2f2015_tkde_paralleliis%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2f2018_aaai_deeptte%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2f2015_tkde_paralleliis%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2f2018_aaai_deeptte%2f&amp;title=When%20Will%20You%20Arrive%20Estimating%20Travel%20Time%20Based%20on%20Deep%20Neural%20Networks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2f2015_tkde_paralleliis%2f&amp;title=A%20Parallel%20Matrix-based%20Method%20for%20Computing%20Approximations%20in%20Incomplete%20Information%20Systems"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2f2018_aaai_deeptte%2f&amp;title=When%20Will%20You%20Arrive%20Estimating%20Travel%20Time%20Based%20on%20Deep%20Neural%20Networks"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2f2015_tkde_paralleliis%2f&amp;title=A%20Parallel%20Matrix-based%20Method%20for%20Computing%20Approximations%20in%20Incomplete%20Information%20Systems"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=When%20Will%20You%20Arrive%20Estimating%20Travel%20Time%20Based%20on%20Deep%20Neural%20Networks&amp;body=%2fpublication%2f2018_aaai_deeptte%2f">
+         href="mailto:?subject=A%20Parallel%20Matrix-based%20Method%20for%20Computing%20Approximations%20in%20Incomplete%20Information%20Systems&amp;body=%2fpublication%2f2015_tkde_paralleliis%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -325,7 +316,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Estimating the travel time of any path (denoted by a sequence of connected road segments) in a city is of great importance to traffic monitoring, route planning, ridesharing, taxi/Uber dispatching, etc. However, it is a very challenging problem, affected by diverse complex factors, including spatial correlations, temporal dependencies, external conditions (e.g. weather, traffic lights). Prior work usually focuses on estimating the travel times of individual road segments or sub-paths and then summing up these times, which leads to an inaccurate estimation because such approaches do not consider road intersections/traffic lights, and local errors may accumulate. To address these issues, we propose an end-to-end Deep learning framework for Travel Time Estimation (called DeepTTE) that estimates the travel time of the whole path directly. More specifically, we present a geo-convolution operation by integrating the geographic information into the classical convolution, capable of capturing spatial correlations. By stacking recurrent unit on the geo-convoluton layer, our DeepTTE can capture the temporal dependencies as well. A multi-task learning component is given on the top of DeepTTE, that learns to estimate the travel time of both the entire path and each local path simultaneously during the training phase. Extensive experiments on two trajectory datasets show our DeepTTE significantly outperforms the state-of-the-art methods.</p>
+    <p class="pub-abstract" itemprop="text">As the volume of data grows at an unprecedented rate, large-scale data mining and knowledge discovery present a tremendous challenge. Rough set theory, which has been used successfully in solving problems in pattern recognition, machine learning, and data mining, centers around the idea that a set of distinct objects may be approximated via a lower and upper bound. In order to obtain the benefits that rough sets can provide for data mining and related tasks, efficient computation of these approximations is vital. The recently introduced cloud computing model, MapReduce, has gained a lot of attention from the scientific community for its applicability to large-scale data analysis. In previous research, we proposed a MapReduce-based method for computing approximations in parallel, which can efficiently process complete data but fails in the case of missing (incomplete) data. To address this shortcoming, three different parallel matrix-based methods are introduced to process large-scale, incomplete data. All of them are built on MapReduce and implemented on Twister that is a lightweight MapReduce runtime system. The proposed parallel methods are then experimentally shown to be efficient for processing large-scale data.</p>
     
 
     
@@ -336,8 +327,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -354,7 +345,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9"><em>Thirty-Second AAAI Conference on Artificial Intelligence</em></div>
+          <div class="col-xs-12 col-sm-9"><em>IEEE Transactions on Knowledge and Data Engineering</em></div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -368,7 +359,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            January, 2018
+            February, 2015
           </div>
         </div>
       </div>
@@ -388,7 +379,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="/pdf/2018_AAAI_DeepTTE.pdf" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://ieeexplore.ieee.org/document/6834786/" target="_blank" rel="noopener">
   PDF
 </a>
 
