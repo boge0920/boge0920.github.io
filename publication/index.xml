@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>DeepCrime: Attentive Hierarchical Recurrent Networks for Crime Prediction</title>
+      <link>/publication/2018_cikm_deepcrime/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_cikm_deepcrime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Distributed Fusion Network for Air Quality Prediction</title>
       <link>/publication/2018_kdd_deepair/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0800</pubDate>
@@ -90,6 +99,15 @@
       <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
       
       <guid>/publication/2014_kdd_sugar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite rough sets for dynamic data mining</title>
+      <link>/publication/2014_ins_crs4ddm/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2014_ins_crs4ddm/</guid>
       <description></description>
     </item>
     

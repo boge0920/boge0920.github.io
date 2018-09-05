@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/publication/2018_cikm_deepcrime/</loc>
+      <lastmod>2018-09-05T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2018_kdd_deepair/</loc>
       <lastmod>2018-08-03T00:00:00+08:00</lastmod>
     </url>
@@ -158,8 +167,17 @@
     
     <url>
     
+      <loc>/publication/2014_ins_crs4ddm/</loc>
+      <lastmod>2014-02-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-08-03T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-05T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -197,6 +215,26 @@
     
     <url>
     
+      <loc>/tags/esi%E7%83%AD%E7%82%B9%E8%AE%BA%E6%96%87/</loc>
+      <lastmod>2014-02-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/esi%E9%AB%98%E8%A2%AB%E5%BC%95%E8%AE%BA%E6%96%87/</loc>
+      <lastmod>2014-02-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-07-20T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -218,7 +256,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-08-03T00:00:00+08:00</lastmod>
+      <lastmod>2018-09-05T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
