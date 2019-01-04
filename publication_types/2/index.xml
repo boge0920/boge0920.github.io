@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Junbo Zhang - </copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning</title>
+      <link>/publication/2018_tkde_mdl/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_tkde_mdl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting citywide crowd flows using deep spatio-temporal residual networks</title>

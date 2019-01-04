@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning</title>
+      <link>/publication/2018_tkde_mdl/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2018_tkde_mdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DeepCrime: Attentive Hierarchical Recurrent Networks for Crime Prediction</title>
       <link>/publication/2018_cikm_deepcrime/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0800</pubDate>
@@ -144,15 +153,6 @@ Paper accepted in AAAI 2018.&lt;/p&gt;&lt;/li&gt;
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0800</pubDate>
       
       <guid>/publication/2015_tkde_paralleliis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervised Deep Learning with Auxiliary Networks</title>
-      <link>/publication/2014_kdd_sugar/</link>
-      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/2014_kdd_sugar/</guid>
       <description></description>
     </item>
     
