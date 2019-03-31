@@ -17,6 +17,16 @@
       
       <guid>/project/dl4stdata/</guid>
       <description>&lt;p&gt;Advances in location-acquisition and wireless communication technologies have led to wider availability of spatio-temporal (ST) data. Deep neural networks (DNNs) have been successfully applied to various problems, such as computer vision, speech recognition, natural language understanding. Being different from these domains, ST data has unique spatial properties (i.e. geographical hierarchy and distance) and temporal properties (i.e. closeness, period and trend). It is very challenging to capture all of these ST properties simultaneously.&lt;/p&gt;
+
+&lt;p&gt;Data &amp;amp; Code:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/lucktroy/DeepST&#34; target=&#34;_blank&#34;&gt;https://github.com/lucktroy/DeepST&lt;/a&gt;
+Junbo Zhang et al. Predicting Citywide Crowd Flows Using Deep Spatio-Temporal Residual Networks, AI Journal, 2018&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/yoshall/GeoMAN&#34; target=&#34;_blank&#34;&gt;https://github.com/yoshall/GeoMAN&lt;/a&gt;
+Yuxuan Liang, Songyu Ke, Junbo Zhang, et al. GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction. IJCAI 2018&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
