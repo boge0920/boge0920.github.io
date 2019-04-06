@@ -23,6 +23,24 @@
     
     <url>
     
+      <loc>/publication/2019_arxiv_mvgcn/</loc>
+      <lastmod>2019-03-18T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/2019_arxiv_deepfm/</loc>
+      <lastmod>2019-02-06T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2019_tkde_mdl/</loc>
       <lastmod>2019-01-09T00:00:00+08:00</lastmod>
     </url>
@@ -215,6 +233,16 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2019-01-09T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2019-03-18T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     

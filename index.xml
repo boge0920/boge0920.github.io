@@ -40,6 +40,24 @@ Yuxuan Liang, Songyu Ke, Junbo Zhang, et al. GeoMAN: Multi-level Attention Netwo
     </item>
     
     <item>
+      <title>Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks</title>
+      <link>/publication/2019_arxiv_mvgcn/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019_arxiv_mvgcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UrbanFM: Inferring Fine-Grained Urban Flows</title>
+      <link>/publication/2019_arxiv_deepfm/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019_arxiv_deepfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning</title>
       <link>/publication/2019_tkde_mdl/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
@@ -145,24 +163,6 @@ Paper accepted in AAAI 2018.&lt;/p&gt;&lt;/li&gt;
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
       
       <guid>/publication/2018_aaai_deeptte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction</title>
-      <link>/publication/2017_aaai_stresnet/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/2017_aaai_stresnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DNN-Based Prediction Model for Spatial-Temporal Data</title>
-      <link>/publication/2016_sigspatial_deepst/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/2016_sigspatial_deepst/</guid>
       <description></description>
     </item>
     

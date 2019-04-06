@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks</title>
+      <link>/publication/2019_arxiv_mvgcn/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019_arxiv_mvgcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UrbanFM: Inferring Fine-Grained Urban Flows</title>
+      <link>/publication/2019_arxiv_deepfm/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019_arxiv_deepfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning</title>
       <link>/publication/2019_tkde_mdl/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
